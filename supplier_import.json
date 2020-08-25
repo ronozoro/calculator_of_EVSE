@@ -1,0 +1,2301 @@
+[
+    {
+        "Company name": "Fireball",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "Product ID": "LY*TOW",
+        "has hour day": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min consumption": "0.9916",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "hour from": 5,
+                "hour to": 11.0,
+                "kwh price": "1.2627"
+            },
+            {
+                "hour from": 11.0,
+                "hour to": 17.0,
+                "kwh price": "1.2688"
+            },
+            {
+                "hour from": 17.0,
+                "hour to": 23.0,
+                "kwh price": "0.8551"
+            },
+            {
+                "hour from": 23.0,
+                "hour to": 5.0,
+                "kwh price": "0.4734"
+            }
+        ]
+    },
+    {
+        "Company name": "Ciba AG",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "Product ID": "IO*XMT",
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "interval": "end",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min duration": "0.0147",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4961,
+                "minute price": "1.6753"
+            }
+        ]
+    },
+    {
+        "Company name": "NOS",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "UB*ETD*F315*70",
+        "Identifier": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0.2815",
+        "max_session fee": "72.6607",
+        "min billing amount": "False",
+        "min cosumed energy": "0.2464",
+        "session Fee": "3.2302"
+    },
+    {
+        "Company name": "Swiss National Bank",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "AP*HBQ*U604*38",
+        "Identifier": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "end",
+        "max_session fee": "False",
+        "min billing amount": "1,5312",
+        "min duration": "0.083",
+        "session Fee": "8,9632",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.2459,
+                "minute price": "0,6473"
+            }
+        ]
+    },
+    {
+        "Company name": "Aixam",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "SF*DTL*I349*48",
+        "Identifier": "e8a874fa-a7ef-498a-8840-309613b1a76e",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0.7162",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.2568",
+        "session Fee": "9,5392"
+    },
+    {
+        "Company name": "Antiquorum",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "KM*KMD*M965*28",
+        "Identifier": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "max_session fee": "42,6348",
+        "min billing amount": "False",
+        "min_duration": "0.0429",
+        "session Fee": "7,0423",
+        "simple minute price": "1,2303"
+    },
+    {
+        "Company name": "Ellipse Programm\u00e9",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "Product ID": "WJ*WYT",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0.9422",
+        "max_session fee": "False",
+        "min billing amount": "2.201",
+        "min cosumed energy": "0.7099",
+        "min_duration": "0.0004",
+        "session Fee": "False",
+        "simple minute price": "0,3868"
+    },
+    {
+        "Company name": "Certina",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "Product ID": "ID*HUT",
+        "has complex minute price": true,
+        "has hour day": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "start",
+        "kwh Price": "1.1702",
+        "max_session fee": "False",
+        "min billing amount": "0.3854",
+        "min cosumed energy": "0.8383",
+        "min duration": "0.0701",
+        "session Fee": "2.8752",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.0686,
+                "minute price": "1.7456"
+            }
+        ]
+    },
+    {
+        "Company name": "Ebro trucks",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "LW*CBK*C449*67",
+        "Identifier": "1a6b6fd3-6169-49ca-81d6-5e7d9eefe6d0",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "max_session fee": "29,3775",
+        "min billing amount": "False",
+        "min_duration": "0.0812",
+        "session Fee": "False",
+        "simple minute price": "1,7333"
+    },
+    {
+        "Company name": "Kreditech",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "15e2478c-d158-41eb-80a4-ed71eb95a5e1",
+        "Product ID": "CS*VMH",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0.1407",
+        "max_session fee": "False",
+        "min billing amount": "2,7334",
+        "min cosumed energy": "0.6265",
+        "min_duration": "0.031",
+        "session Fee": "9,7478",
+        "simple minute price": "1.1966"
+    },
+    {
+        "Company name": "Vueling Airlines",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "93741657-df13-4cb1-b7de-4d3e01db0c37",
+        "Product ID": "XI*SWK",
+        "has complex minute price": true,
+        "has hour day": true,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "interval": "end",
+        "kwh Price": "0.0542",
+        "max_session fee": "False",
+        "min billing amount": "0,8037",
+        "min cosumed energy": "0.4148",
+        "min duration": "0.0832",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.2421,
+                "hour from": 10,
+                "hour to": 18.0,
+                "minute price": "0.7755"
+            },
+            {
+                "billing_each_timeframe": 0.2421,
+                "hour from": 18.0,
+                "hour to": 2.0,
+                "minute price": "0.9096"
+            },
+            {
+                "billing_each_timeframe": 0.2421,
+                "hour from": 2.0,
+                "hour to": 10.0,
+                "minute price": "0.4143"
+            }
+        ]
+    },
+    {
+        "Company name": "Manor",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "ab5b5913-328b-4023-a7ca-4aa90cfe913d",
+        "Product ID": "HU*BCE",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "0,6687",
+        "max_session fee": "25.6596",
+        "min billing amount": "False",
+        "min cosumed energy": "0.3755",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Sunopsis",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "WW*XOW*Z725*26",
+        "Identifier": "a864f296-ea5d-45c5-a0c9-248c3cc7b92c",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "max_session fee": "26,7068",
+        "min billing amount": "1,8966",
+        "min_duration": "0.0487",
+        "session Fee": "False",
+        "simple minute price": "0.421"
+    },
+    {
+        "Company name": "Weleda",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "YP*NVI*L055*16",
+        "Identifier": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "Product ID": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "1.0577",
+        "min consumption": "0.2712",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "kwh price": "0.128"
+            }
+        ]
+    },
+    {
+        "Company name": "Globus",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "QP*JWD*N536*55",
+        "Identifier": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0,7936",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.0203",
+        "session Fee": "1,7689"
+    },
+    {
+        "Company name": "Deutsche Telekom",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "YK*QZA*Y335*42",
+        "Identifier": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0,566",
+        "max_session fee": "68,8932",
+        "min billing amount": "2,7891",
+        "min cosumed energy": "0.0174",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Walter Verlag",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "OZ*YWH*J123*94",
+        "Identifier": "2e589e2e-a6db-4164-8cd0-444465d54504",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "1,0802",
+        "max_session fee": "39,9367",
+        "min billing amount": "0,8739",
+        "min cosumed energy": "0.5049",
+        "min_duration": "0.0001",
+        "session Fee": "2,2509",
+        "simple minute price": "0.4331"
+    },
+    {
+        "Company name": "Anovo",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "4ebdf79f-14f5-4b04-bf0b-651bcdc13675",
+        "Product ID": "DT*VNK",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0,6688",
+        "max_session fee": "90.957",
+        "min billing amount": "False",
+        "min cosumed energy": "0.9461",
+        "session Fee": "7.6291"
+    },
+    {
+        "Company name": "Sacyr Vallehermoso",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "f49931c1-8e55-4ef8-bea8-f8f22c42369f",
+        "Product ID": "LT*TNP",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "0,1789",
+        "min_duration": "0.0745",
+        "session Fee": "6,4971",
+        "simple minute price": "0.8954"
+    },
+    {
+        "Company name": "Dieffenbacher",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "ccf08f9a-ad8e-44ee-bbfc-ea33eed84d1e",
+        "Product ID": "XN*MFD",
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "end",
+        "max_session fee": "41.7335",
+        "min billing amount": "0.555",
+        "min duration": "0.0549",
+        "session Fee": "4.3517",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.2653,
+                "minute price": "1,9842"
+            }
+        ]
+    },
+    {
+        "Company name": "Novo Banco",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "RF*NZD*N226*48",
+        "Identifier": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "start",
+        "max_session fee": "53.1313",
+        "min billing amount": "1.1047",
+        "min duration": "0.0439",
+        "session Fee": "6.0943",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.0765,
+                "minute price": "0,502"
+            }
+        ]
+    },
+    {
+        "Company name": "BusinessObjects",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "Product ID": "PF*BQQ",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "1.0371",
+        "min_duration": "0.0692",
+        "session Fee": "8.5753",
+        "simple minute price": "0.3472"
+    },
+    {
+        "Company name": "M\u00e9tro Lausanne-Ouchy",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "Product ID": "CN*HKQ",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "1.0749",
+        "max_session fee": "70.5537",
+        "min billing amount": "False",
+        "min cosumed energy": "0.5681",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Adaptas",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "Product ID": "WA*BZJ",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "2,4806",
+        "min_duration": "0.0471",
+        "session Fee": "8,387",
+        "simple minute price": "0.7032"
+    },
+    {
+        "Company name": "Freenet.de",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "AW*XWL*M483*81",
+        "Identifier": "ee3e4740-4312-40c1-8d8d-0266799f072d",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "interval": "end",
+        "max_session fee": "False",
+        "min billing amount": "2,9009",
+        "min duration": "0.0235",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4378,
+                "minute price": "0.7455"
+            }
+        ]
+    },
+    {
+        "Company name": "a21",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "4519f31e-afa2-434e-a3d5-52f65bb33675",
+        "Product ID": "ZW*UFQ",
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "1,0547",
+        "max_session fee": "False",
+        "min billing amount": "2,0126",
+        "min cosumed energy": "0.8777",
+        "session Fee": "9,5651"
+    },
+    {
+        "Company name": "BUF Compagnie",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "d89d9476-9854-4f49-a0b6-47bf06bbb84e",
+        "Product ID": "DL*BNI",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "1,8663",
+        "max_session fee": "False",
+        "min billing amount": "2,5362",
+        "min cosumed energy": "0.6537",
+        "min_duration": "0.0157",
+        "session Fee": "6,5341",
+        "simple minute price": "1,7506"
+    },
+    {
+        "Company name": "Weltraum-System",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "9b4b2ef9-d955-49b5-b8e3-515d81f656bf",
+        "Product ID": "FC*ZWP",
+        "has complex minute price": false,
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "25,6078",
+        "min billing amount": "2,2437",
+        "min consumption": "0.5843",
+        "min_duration": "0.0201",
+        "session Fee": "False",
+        "simple minute price": "0,1622",
+        "time_price": [
+            {
+                "kwh price": "0.1041"
+            }
+        ]
+    },
+    {
+        "Company name": "Future Bright",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "ebc91f0e-354e-4f34-b276-8f55b5aab9a3",
+        "Product ID": "LJ*GCB",
+        "has complex minute price": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "1,9452",
+        "min consumption": "0.222",
+        "min_duration": "0.0629",
+        "session Fee": "False",
+        "simple minute price": "1.5213",
+        "time_price": [
+            {
+                "kwh price": "1,884"
+            }
+        ]
+    },
+    {
+        "Company name": "Wortmann",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "5968df09-2857-456c-91b6-853a71a248d2",
+        "Product ID": "GT*IPR",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "1.4948",
+        "max_session fee": "65,8088",
+        "min billing amount": "False",
+        "min cosumed energy": "0.7559",
+        "min_duration": "0.0476",
+        "session Fee": "4,965",
+        "simple minute price": "1,6938"
+    },
+    {
+        "Company name": "Ringier",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "XI*LKS*E553*53",
+        "Identifier": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "start",
+        "max_session fee": "False",
+        "min billing amount": "2.6563",
+        "min duration": "0.0659",
+        "session Fee": "3.2464",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.0424,
+                "minute price": "1,6559"
+            }
+        ]
+    },
+    {
+        "Company name": "Martifer",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "KO*MOL*V495*83",
+        "Identifier": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0.1557",
+        "max_session fee": "30,8884",
+        "min billing amount": "1,8298",
+        "min cosumed energy": "0.7912",
+        "min_duration": "0.0654",
+        "session Fee": "False",
+        "simple minute price": "0,6667"
+    },
+    {
+        "Company name": "Nord Stream AG",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "1284c769-c51a-42af-834a-585bd259c765",
+        "Product ID": "QJ*NCJ",
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "has time based kwh": true,
+        "max_session fee": "58,8821",
+        "min billing amount": "1,0811",
+        "min consumption": "0.6473",
+        "session Fee": "5,6318",
+        "time_price": [
+            {
+                "kwh price": "1.5833"
+            }
+        ]
+    },
+    {
+        "Company name": "Glintt",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "DH*MUW*K360*06",
+        "Identifier": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "Product ID": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "2.8622",
+        "min consumption": "0.0751",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "kwh price": "0,3782"
+            }
+        ]
+    },
+    {
+        "Company name": "Fuchs Petrolub",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "Product ID": "RS*RMU",
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "99,3917",
+        "min billing amount": "1,123",
+        "min_duration": "0.0321",
+        "session Fee": "2,1649",
+        "simple minute price": "0.8019"
+    },
+    {
+        "Company name": "Meo",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "AJ*DTB*K127*79",
+        "Identifier": "37779f1a-20c6-453a-9077-d37796518501",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "has time based kwh": true,
+        "interval": "start",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min consumption": "0.7931",
+        "min duration": "0.0525",
+        "session Fee": "5.1172",
+        "time_price": [
+            {
+                "kwh price": "1,0167"
+            }
+        ]
+    },
+    {
+        "Company name": "Aleris International",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": "CA*PYI*C334*37",
+        "Identifier": "2df0c8b3-5b51-4a3d-8f75-cf09d5199548",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0,5888",
+        "max_session fee": "61.6232",
+        "min billing amount": "1.1138",
+        "min cosumed energy": "0.7426",
+        "session Fee": "4.3246"
+    },
+    {
+        "Company name": "SoftAtHome",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "f7c537d6-2cac-49af-932e-2e01b360a10d",
+        "Product ID": "ZL*SFO",
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "1.7872",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.2476",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Abertis",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "KU*BAD*D328*13",
+        "Identifier": "50574d40-515d-4df6-99d5-9ee3e27f245d",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "interval": "start",
+        "max_session fee": "31.0876",
+        "min billing amount": "1.3844",
+        "min duration": "0.0612",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.213,
+                "hour from": 0,
+                "hour to": 12.0,
+                "minute price": "1.5642"
+            },
+            {
+                "billing_each_timeframe": 0.213,
+                "hour from": 12.0,
+                "hour to": 0.0,
+                "minute price": "1.2671"
+            }
+        ]
+    },
+    {
+        "Company name": "Megatronic",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": "LR*VVY*U613*57",
+        "Identifier": "37758618-3c0f-405b-959b-687bab01b70d",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "has time based kwh": true,
+        "interval": "end",
+        "max_session fee": "66,6045",
+        "min billing amount": "2,1123",
+        "min consumption": "0.0359",
+        "min duration": "0.0297",
+        "session Fee": "5,2867",
+        "time_price": [
+            {
+                "kwh price": "0,7052"
+            }
+        ]
+    },
+    {
+        "Company name": "Wilkhahn",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "TG*GHY*S747*85",
+        "Identifier": "a4fb92fe-7efb-4017-9953-e1f483dd63bb",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min consumption": "0.7258",
+        "min_duration": "0.005",
+        "session Fee": "9,8173",
+        "simple minute price": "1.4869",
+        "time_price": [
+            {
+                "kwh price": "0,9907"
+            }
+        ]
+    },
+    {
+        "Company name": "Deutsche Post",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "2fed9582-52ff-4ae1-b333-1739fd9b451d",
+        "Product ID": "VA*YIG",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "1,5507",
+        "max_session fee": "28.8629",
+        "min billing amount": "2.6417",
+        "min cosumed energy": "0.4636",
+        "min_duration": "0.0016",
+        "session Fee": "False",
+        "simple minute price": "1,355"
+    },
+    {
+        "Company name": "Freudenberg Group",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "3fe75726-963e-43b6-ac7f-74051183f713",
+        "Product ID": "HG*FHO",
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "1.8153",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.5672",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Deutsche Bahn",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "RN*HBA*U664*39",
+        "Identifier": "0594e869-3f87-4d56-9bdb-e6ca3cb757f9",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0.1043",
+        "max_session fee": "82,0599",
+        "min billing amount": "False",
+        "min cosumed energy": "0.0681",
+        "session Fee": "4,338"
+    },
+    {
+        "Company name": "New Era Tickets",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": "ZM*GEA*Z372*20",
+        "Identifier": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "end",
+        "max_session fee": "60,0036",
+        "min billing amount": "1,3848",
+        "min duration": "0.037",
+        "session Fee": "1,6262",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4621,
+                "hour from": 22,
+                "hour to": 10.0,
+                "minute price": "1.2363"
+            },
+            {
+                "billing_each_timeframe": 0.4621,
+                "hour from": 10.0,
+                "hour to": 22.0,
+                "minute price": "1.0561"
+            }
+        ]
+    },
+    {
+        "Company name": "DxO Labs",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "Product ID": "VD*EXO",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0,8441",
+        "max_session fee": "80,0334",
+        "min billing amount": "0,2462",
+        "min cosumed energy": "0.0695",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Zimmerberg bus line",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "Product ID": "ZG*WTB",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "0,4889",
+        "max_session fee": "64.8718",
+        "min billing amount": "False",
+        "min cosumed energy": "0.8629",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Principal Financial Group",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": "IG*PZB*R017*27",
+        "Identifier": "decd249b-ce93-4f72-8221-672f4ec882a5",
+        "Product ID": false,
+        "has hour day": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "2.1315",
+        "min consumption": "0.8604",
+        "session Fee": "6.8982",
+        "time_price": [
+            {
+                "hour from": 10,
+                "hour to": 18.0,
+                "kwh price": "1.295"
+            },
+            {
+                "hour from": 18.0,
+                "hour to": 2.0,
+                "kwh price": "1.9585"
+            },
+            {
+                "hour from": 2.0,
+                "hour to": 10.0,
+                "kwh price": "0.5408"
+            }
+        ]
+    },
+    {
+        "Company name": "Meo",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "d1fe1917-d8d9-4824-a8ca-0308a35d9107",
+        "Product ID": "YK*VXX",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0,1467",
+        "max_session fee": "False",
+        "min billing amount": "0.4097",
+        "min cosumed energy": "0.9479",
+        "min_duration": "0.0524",
+        "session Fee": "False",
+        "simple minute price": "1,9365"
+    },
+    {
+        "Company name": "Kirch Group",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "66fb2ec1-9473-45ea-b987-c156f51aca52",
+        "Product ID": "RQ*DGJ",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0,0265",
+        "max_session fee": "73.2277",
+        "min billing amount": "2.6409",
+        "min cosumed energy": "0.6896",
+        "session Fee": "2.8264"
+    },
+    {
+        "Company name": "La Casera",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "496f0156-96ca-4d15-8ee2-da1fcd155144",
+        "Product ID": "SU*ORC",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "1.13",
+        "max_session fee": "False",
+        "min billing amount": "2.0475",
+        "min cosumed energy": "0.616",
+        "min_duration": "0.0502",
+        "session Fee": "False",
+        "simple minute price": "1.9213"
+    },
+    {
+        "Company name": "Fresenius Medical Care",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "0f532615-bc8d-49a1-8165-b4ff0ec4f295",
+        "Product ID": "DM*XVQ",
+        "has complex minute price": true,
+        "has hour day": true,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "interval": "end",
+        "kwh Price": "1,2248",
+        "max_session fee": "34,1334",
+        "min billing amount": "0,3123",
+        "min cosumed energy": "0.165",
+        "min duration": "0.0501",
+        "session Fee": "4,9051",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.1885,
+                "hour from": 6,
+                "hour to": 18.0,
+                "minute price": "0.0085"
+            },
+            {
+                "billing_each_timeframe": 0.1885,
+                "hour from": 18.0,
+                "hour to": 6.0,
+                "minute price": "0.24"
+            }
+        ]
+    },
+    {
+        "Company name": "Bradley Pharmaceuticals",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "42d6c6e5-944d-451b-9417-36d52a19350d",
+        "Product ID": "PO*QEI",
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0.3799",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.1515",
+        "session Fee": "7,988"
+    },
+    {
+        "Company name": "Wella",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "493e30f2-a7f8-4dcd-aa74-a7f68871eee5",
+        "Product ID": "SW*SZE",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "1.2333",
+        "max_session fee": "False",
+        "min billing amount": "2,7603",
+        "min cosumed energy": "0.8632",
+        "min_duration": "0.0497",
+        "session Fee": "False",
+        "simple minute price": "1.421"
+    },
+    {
+        "Company name": "Infinit",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "76293b19-2d00-49b4-800f-76f2136a59c7",
+        "Product ID": "OH*ECG",
+        "has complex minute price": true,
+        "has hour day": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "interval": "start",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min duration": "0.0595",
+        "session Fee": "1,0426",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4323,
+                "hour from": 4,
+                "hour to": 10.0,
+                "minute price": "1.7053"
+            },
+            {
+                "billing_each_timeframe": 0.4323,
+                "hour from": 10.0,
+                "hour to": 16.0,
+                "minute price": "1.0322"
+            },
+            {
+                "billing_each_timeframe": 0.4323,
+                "hour from": 16.0,
+                "hour to": 22.0,
+                "minute price": "0.1265"
+            },
+            {
+                "billing_each_timeframe": 0.4323,
+                "hour from": 22.0,
+                "hour to": 4.0,
+                "minute price": "0.7145"
+            }
+        ]
+    },
+    {
+        "Company name": "SEAT",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "RE*DQB*H979*11",
+        "Identifier": "86cb20d9-6ff9-407e-823d-2f8d53d2f0ca",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0,3052",
+        "max_session fee": "76,2537",
+        "min billing amount": "0,441",
+        "min cosumed energy": "0.3738",
+        "min_duration": "0.0715",
+        "session Fee": "6,4109",
+        "simple minute price": "0,3655"
+    },
+    {
+        "Company name": "KIMO Industrie Elektronik",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "BL*XJB*W642*21",
+        "Identifier": "22fbae3a-e3b5-471c-8b55-066b1ece0b93",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "1,2858",
+        "max_session fee": "69,3358",
+        "min billing amount": "1,4816",
+        "min cosumed energy": "0.1399",
+        "session Fee": "4,1248"
+    },
+    {
+        "Company name": "Avaya",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "e0fc1d40-d3e1-40ed-b713-f809ad5c6e34",
+        "Product ID": "MM*YJS",
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "45,9628",
+        "min billing amount": "0,3719",
+        "min_duration": "0.0079",
+        "session Fee": "5,0518",
+        "simple minute price": "0,1873"
+    },
+    {
+        "Company name": "W\u00fcrth",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "EM*ODM*C216*22",
+        "Identifier": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min_duration": "0.0736",
+        "session Fee": "3.183",
+        "simple minute price": "0.5948"
+    },
+    {
+        "Company name": "RIU Hotels",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "Product ID": "DF*LJZ",
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "interval": "end",
+        "max_session fee": "80.0892",
+        "min billing amount": "1.0184",
+        "min duration": "0.0259",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.2037,
+                "minute price": "0,535"
+            }
+        ]
+    },
+    {
+        "Company name": "Vueling Airlines",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "GT*YZJ*X336*80",
+        "Identifier": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0.2771",
+        "max_session fee": "False",
+        "min billing amount": "2.5312",
+        "min cosumed energy": "0.3598",
+        "min_duration": "0.0645",
+        "session Fee": "1.8471",
+        "simple minute price": "1.4668"
+    },
+    {
+        "Company name": "Daher",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "Product ID": "AS*MHX",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0,7559",
+        "max_session fee": "83,9109",
+        "min billing amount": "False",
+        "min cosumed energy": "0.8475",
+        "min_duration": "0.0651",
+        "session Fee": "3,7121",
+        "simple minute price": "1.3261"
+    },
+    {
+        "Company name": "Interplay Entertainment",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "Product ID": "DI*BOD",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "1.6513",
+        "max_session fee": "31,4888",
+        "min billing amount": "False",
+        "min cosumed energy": "0.6117",
+        "min_duration": "0.003",
+        "session Fee": "2,6768",
+        "simple minute price": "1.1156"
+    },
+    {
+        "Company name": "Telepizza",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "FC*UVZ*C721*74",
+        "Identifier": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "max_session fee": "35,111",
+        "min billing amount": "0,5419",
+        "min_duration": "0.0253",
+        "session Fee": "False",
+        "simple minute price": "1,6806"
+    },
+    {
+        "Company name": "MobYD",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "QE*NTD*D903*52",
+        "Identifier": "27c56486-3702-4157-9a42-7c54b2396946",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "1,9791",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.6703",
+        "min_duration": "0.0264",
+        "session Fee": "False",
+        "simple minute price": "0.6638"
+    },
+    {
+        "Company name": "KSB",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "FL*NZL*C995*66",
+        "Identifier": "b8557e03-0b25-45f0-aa24-863055d94598",
+        "Product ID": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "0,9138",
+        "min consumption": "0.274",
+        "session Fee": "4,0969",
+        "time_price": [
+            {
+                "kwh price": "1,2769"
+            }
+        ]
+    },
+    {
+        "Company name": "Manu Connection",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": "JL*BMQ*G302*91",
+        "Identifier": "20c07512-ae6a-40d7-a58c-aafb08d11904",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0.0384",
+        "max_session fee": "53,7858",
+        "min billing amount": "2,778",
+        "min cosumed energy": "0.4613",
+        "session Fee": "1,4458"
+    },
+    {
+        "Company name": "Domaine Clarence Dillon",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "LZ*KTU*X653*42",
+        "Identifier": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0.1432",
+        "max_session fee": "88.0861",
+        "min billing amount": "2.3467",
+        "min cosumed energy": "0.2043",
+        "min_duration": "0.0663",
+        "session Fee": "5.144",
+        "simple minute price": "0.6799"
+    },
+    {
+        "Company name": "D\u00fcrr",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "Product ID": "NL*UAM",
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0.2626",
+        "max_session fee": "False",
+        "min billing amount": "0.4509",
+        "min cosumed energy": "0.8255",
+        "session Fee": "1.8665"
+    },
+    {
+        "Company name": "Noble Corporation",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "GZ*TDB*V035*25",
+        "Identifier": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0,6399",
+        "max_session fee": "False",
+        "min billing amount": "2.6763",
+        "min cosumed energy": "0.0841",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Fresh Start",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": false,
+        "Identifier": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "Product ID": "TB*TSI",
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "has time based kwh": true,
+        "max_session fee": "99.1963",
+        "min billing amount": "False",
+        "min consumption": "0.3027",
+        "session Fee": "3.5136",
+        "time_price": [
+            {
+                "kwh price": "1.2739"
+            }
+        ]
+    },
+    {
+        "Company name": "Acciona",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "DW*ZSX*C540*77",
+        "Identifier": "374d1b06-28e2-474d-b009-37a619debac8",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "interval": "start",
+        "max_session fee": "False",
+        "min billing amount": "2,6816",
+        "min duration": "0.0186",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4204,
+                "minute price": "1,4415"
+            }
+        ]
+    },
+    {
+        "Company name": "BioM\u00e9rieux",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "ab2affe2-e478-4f11-8f48-8fdba6afa60b",
+        "Product ID": "SP*VDQ",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "1,4986",
+        "max_session fee": "67.124",
+        "min billing amount": "0.1213",
+        "min cosumed energy": "0.4133",
+        "min_duration": "0.0449",
+        "session Fee": "False",
+        "simple minute price": "1.1098"
+    },
+    {
+        "Company name": "Avant Garde Appraisal",
+        "Currency": [
+            "USD",
+            "$"
+        ],
+        "EVSE ID": "XB*BMQ*C620*98",
+        "Identifier": "2f2c6afd-4909-4571-8b31-1d2c74ef1136",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "max_session fee": "False",
+        "min billing amount": "1,5805",
+        "min_duration": "0.0233",
+        "session Fee": "False",
+        "simple minute price": "0.0375"
+    },
+    {
+        "Company name": "Sonae",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "GZ*OFP*X463*91",
+        "Identifier": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "0.7679",
+        "max_session fee": "96.3733",
+        "min billing amount": "False",
+        "min cosumed energy": "0.8799",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Banco Comercial Portugu\u00eas",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "EE*WCE*O211*63",
+        "Identifier": "7250dce9-99f4-4195-a5bc-219459172091",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "2,5223",
+        "min_duration": "0.0279",
+        "session Fee": "9,6584",
+        "simple minute price": "0.4541"
+    },
+    {
+        "Company name": "Majorica",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "08b788a1-3c64-4d38-bef5-0f97d3cd4d18",
+        "Product ID": "OW*JFH",
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "max_session fee": "57.767",
+        "min billing amount": "1.3597",
+        "min_duration": "0.0684",
+        "session Fee": "False",
+        "simple minute price": "0.0857"
+    },
+    {
+        "Company name": "Aquafadas",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "FV*TKG*T723*22",
+        "Identifier": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "0,6282",
+        "max_session fee": "False",
+        "min billing amount": "0,2158",
+        "min cosumed energy": "0.7136",
+        "min_duration": "0.0307",
+        "session Fee": "False",
+        "simple minute price": "0,839"
+    },
+    {
+        "Company name": "Daum (studio)",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "Product ID": "FH*KLJ",
+        "has hour day": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "71.3758",
+        "min billing amount": "False",
+        "min consumption": "0.9652",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "hour from": 2,
+                "hour to": 8.0,
+                "kwh price": "0.7241"
+            },
+            {
+                "hour from": 8.0,
+                "hour to": 14.0,
+                "kwh price": "1.3521"
+            },
+            {
+                "hour from": 14.0,
+                "hour to": 20.0,
+                "kwh price": "1.427"
+            },
+            {
+                "hour from": 20.0,
+                "hour to": 2.0,
+                "kwh price": "0.9557"
+            }
+        ]
+    },
+    {
+        "Company name": "Deutsche Post",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "Product ID": "KG*WFL",
+        "has complex minute price": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min consumption": "0.4371",
+        "min_duration": "0.0518",
+        "session Fee": "False",
+        "simple minute price": "0.0769",
+        "time_price": [
+            {
+                "kwh price": "1.5385"
+            }
+        ]
+    },
+    {
+        "Company name": "CIE Automotive",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "AV*HRS*O152*22",
+        "Identifier": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "Product ID": false,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min consumption": "0.6405",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "kwh price": "1,4775"
+            }
+        ]
+    },
+    {
+        "Company name": "Logoplaste",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "Product ID": "PI*IXL",
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "0.18",
+        "max_session fee": "64,1568",
+        "min billing amount": "2,6387",
+        "min cosumed energy": "0.5233",
+        "session Fee": "5,6573"
+    },
+    {
+        "Company name": "Duralex",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "297201b0-0a30-442e-b582-711332c0a84f",
+        "Product ID": "CI*FGM",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "0.1195",
+        "min_duration": "0.0265",
+        "session Fee": "2.9989",
+        "simple minute price": "0.8679"
+    },
+    {
+        "Company name": "Comptoir des Cotonniers",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "Product ID": "UW*HMN",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "max_session fee": "False",
+        "min billing amount": "0.4363",
+        "min_duration": "0.0697",
+        "session Fee": "False",
+        "simple minute price": "1,4069"
+    },
+    {
+        "Company name": "Buffet Crampon",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "OZ*FTS*L739*20",
+        "Identifier": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min_duration": "0.0748",
+        "session Fee": "3.5396",
+        "simple minute price": "1.7343"
+    },
+    {
+        "Company name": "Georg Fischer",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "XF*HWO*T909*02",
+        "Identifier": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "Product ID": false,
+        "has complex minute price": true,
+        "has hour day": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "interval": "start",
+        "max_session fee": "77.8556",
+        "min billing amount": "False",
+        "min duration": "0.04",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4093,
+                "hour from": 22,
+                "hour to": 6.0,
+                "minute price": "1.7942"
+            },
+            {
+                "billing_each_timeframe": 0.4093,
+                "hour from": 6.0,
+                "hour to": 14.0,
+                "minute price": "0.487"
+            },
+            {
+                "billing_each_timeframe": 0.4093,
+                "hour from": 14.0,
+                "hour to": 22.0,
+                "minute price": "1.094"
+            }
+        ]
+    },
+    {
+        "Company name": "Villeroy & Boch",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "NP*VUC*S803*81",
+        "Identifier": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "kwh Price": "1,6023",
+        "max_session fee": "False",
+        "min billing amount": "2,0364",
+        "min cosumed energy": "0.5938",
+        "session Fee": "1,2427"
+    },
+    {
+        "Company name": "Bial",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "DJ*LOK*N607*27",
+        "Identifier": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "1,4727",
+        "max_session fee": "94.3829",
+        "min billing amount": "False",
+        "min cosumed energy": "0.3572",
+        "session Fee": "2.3868"
+    },
+    {
+        "Company name": "Putzmeister",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "Product ID": "FK*XPT",
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "1.4016",
+        "max_session fee": "False",
+        "min billing amount": "1,9597",
+        "min cosumed energy": "0.5883",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Corticeira Amorim",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "YK*JNF*A283*26",
+        "Identifier": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min_duration": "0.0186",
+        "session Fee": "3,7977",
+        "simple minute price": "1,6949"
+    },
+    {
+        "Company name": "Nexus Telecom",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": false,
+        "Identifier": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "Product ID": "DE*IRC",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min_duration": "0.0281",
+        "session Fee": "8.1202",
+        "simple minute price": "1,5053"
+    },
+    {
+        "Company name": "Swiss Private Aviation",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "YY*IQU*R119*50",
+        "Identifier": "b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "kwh Price": "1,5969",
+        "max_session fee": "False",
+        "min billing amount": "1,5929",
+        "min cosumed energy": "0.304",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "Mercadona",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "fdad2dfb-d58f-4022-9ca3-cf0c9454912f",
+        "Product ID": "BO*ODP",
+        "has complex minute price": true,
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "interval": "end",
+        "max_session fee": "False",
+        "min billing amount": "0,7297",
+        "min duration": "0.0524",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "billing_each_timeframe": 0.4025,
+                "minute price": "0.2729"
+            }
+        ]
+    },
+    {
+        "Company name": "Chopard",
+        "Currency": [
+            "CHF",
+            "Fr."
+        ],
+        "EVSE ID": "OO*IFG*M021*49",
+        "Identifier": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "Product ID": false,
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "0.2084",
+        "min_duration": "0.041",
+        "session Fee": "1.7578",
+        "simple minute price": "0,0829"
+    },
+    {
+        "Company name": "Freudenberg Group",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "Product ID": "EI*KOO",
+        "has complex minute price": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "95,05",
+        "min billing amount": "1,3041",
+        "min_duration": "0.0562",
+        "session Fee": "2,0075",
+        "simple minute price": "1,909"
+    },
+    {
+        "Company name": "Essilor",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "Product ID": "JK*TVK",
+        "has hour day": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "False",
+        "min billing amount": "0,1503",
+        "min consumption": "0.4045",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "kwh price": "1.1754"
+            }
+        ]
+    },
+    {
+        "Company name": "Bascol",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "ME*PSD*I497*82",
+        "Identifier": "3054c265-3512-45fd-9a42-0f7b6e47867f",
+        "Product ID": false,
+        "has hour day": false,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "has time based kwh": true,
+        "max_session fee": "43.1527",
+        "min billing amount": "False",
+        "min consumption": "0.1887",
+        "session Fee": "False",
+        "time_price": [
+            {
+                "kwh price": "0.6519"
+            }
+        ]
+    },
+    {
+        "Company name": "Siku Toys",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": "QD*YDS*D638*02",
+        "Identifier": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "Product ID": false,
+        "has kwh price": true,
+        "has max session Fee": true,
+        "has minimum billing threshold": false,
+        "has session fee": false,
+        "kwh Price": "0,7337",
+        "max_session fee": "96,117",
+        "min billing amount": "False",
+        "min cosumed energy": "0.3841",
+        "session Fee": "False"
+    },
+    {
+        "Company name": "SIC",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "Product ID": "BH*VCH",
+        "has complex minute price": false,
+        "has max session Fee": false,
+        "has minimum billing threshold": true,
+        "has session fee": true,
+        "max_session fee": "False",
+        "min billing amount": "1,2387",
+        "min_duration": "0.0279",
+        "session Fee": "4,5487",
+        "simple minute price": "1.6351"
+    },
+    {
+        "Company name": "Christofle",
+        "Currency": [
+            "EUR",
+            "\u20ac"
+        ],
+        "EVSE ID": false,
+        "Identifier": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "Product ID": "AF*MWX",
+        "has complex minute price": false,
+        "has kwh price": true,
+        "has max session Fee": false,
+        "has minimum billing threshold": false,
+        "has session fee": true,
+        "kwh Price": "0.6317",
+        "max_session fee": "False",
+        "min billing amount": "False",
+        "min cosumed energy": "0.4358",
+        "min_duration": "0.0712",
+        "session Fee": "4,375",
+        "simple minute price": "1.9514"
+    }
+]

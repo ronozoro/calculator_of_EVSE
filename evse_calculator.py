@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 from __future__ import division
 
+import csv
 import json
 import requests
 from datetime import datetime
+from pprint import pprint
 from requests.auth import HTTPBasicAuth
 
 
@@ -15,10 +17,91 @@ class CalculatorOfEVSE:
         self.password = password
         self.context = kwargs
 
+    @staticmethod
+    def export_imported_supplier(supplier_import):
+        data_file = open('supplier_import.csv', 'w')
+        csv_writer = csv.writer(data_file)
+        count = 0
+        for item in supplier_import:
+            if count == 0:
+                header = item.keys()
+                csv_writer.writerow(header)
+                count += 1
+            csv_writer.writerow(item.values())
+        data_file.close()
+        with open('supplier_import.json', 'w') as outfile:
+            json.dump(supplier_import, outfile, sort_keys=True, indent=4)
+
+    @staticmethod
+    def export_imported_transaction(transaction_import):
+        data_file = open('transaction_import.csv', 'w')
+        csv_writer = csv.writer(data_file)
+        count = 0
+        for item in transaction_import:
+            if count == 0:
+                header = item.keys()
+                csv_writer.writerow(header)
+                count += 1
+            csv_writer.writerow(item.values())
+        data_file.close()
+        with open('transaction_import.json', 'w') as outfile:
+            json.dump(transaction_import, outfile, sort_keys=True, indent=4)
+
+    @staticmethod
+    def export_cleaned_suppier(supplier_list):
+        data_file = open('supplier_list.csv', 'w')
+        csv_writer = csv.writer(data_file)
+        count = 0
+        for item in supplier_list:
+            if count == 0:
+                header = item.keys()
+                csv_writer.writerow(header)
+                count += 1
+            csv_writer.writerow(item.values())
+        data_file.close()
+        with open('supplier_list.json', 'w') as outfile:
+            json.dump(supplier_list, outfile, sort_keys=True, indent=4)
+        return True
+
+    @staticmethod
+    def export_cleaned_transactions(transaction_list):
+        data_file = open('transaction_list.csv', 'w')
+        csv_writer = csv.writer(data_file)
+        count = 0
+        for item in transaction_list:
+            if count == 0:
+                header = item.keys()
+                csv_writer.writerow(header)
+                count += 1
+            csv_writer.writerow(item.values())
+        data_file.close()
+        with open('transaction_list.json', 'w') as outfile:
+            json.dump(transaction_list, outfile, sort_keys=True, indent=4)
+        return True
+
+    @staticmethod
+    def export_calculated_prices(calculated_data):
+        data_file = open('calculated_data.csv', 'w')
+        csv_writer = csv.writer(data_file)
+        count = 0
+        for item in calculated_data:
+            if count == 0:
+                header = item.keys()
+                csv_writer.writerow(header)
+                count += 1
+            csv_writer.writerow(item.values())
+        data_file.close()
+        with open('calculated_data.json', 'w') as outfile:
+            json.dump(calculated_data, outfile, sort_keys=True, indent=4)
+        return True
+
     def import_data(self, url, username, password):
         """Auth and Get the data in json format"""
         response = requests.get(url, auth=HTTPBasicAuth(username, password))
-        return json.loads(response.content)
+        json_data = json.loads(response.content)
+        self.export_imported_supplier(json_data.get('supplier_prices'))
+        self.export_imported_transaction(json_data.get('transactions'))
+        return json_data
 
     def parse_supplier_data_types(self, key, value):
         """Utility : Parsing float and list attributes in the json object for each supplier dict"""
@@ -86,6 +169,8 @@ class CalculatorOfEVSE:
             json_response.get('supplier_prices', []))  # Clean the supplier json obj
         cleaned_transaction_data = self.clean_transaction_data(
             json_response.get('transactions', []))  # Clean the transaction json obj
+        self.export_cleaned_suppier(cleaned_supplier_data)
+        self.export_cleaned_transactions(cleaned_transaction_data)
         return {'cleaned_supplier_data': cleaned_supplier_data,
                 'cleaned_transaction_data': cleaned_transaction_data}  # cleaned data after simple manipulation
 
@@ -223,11 +308,12 @@ class CalculatorOfEVSE:
         supplier_cleaned_data = cleaned_data.get('cleaned_supplier_data')
         transaction_cleaned_data = cleaned_data.get('cleaned_transaction_data')
         merged_data = self.merge_supplier_transaction(supplier_cleaned_data, transaction_cleaned_data)
-        return self.calculate_prices(merged_data)
+        calculated_data = self.calculate_prices(merged_data)
+        self.export_calculated_prices(calculated_data)
+        return calculated_data
 
 
-sub_calc = CalculatorOfEVSE('https://hgy780tcj2.execute-api.eu-central-1.amazonaws.com/dev/data', 'interviewee',
-                            'muchpassword')
-from pprint import pprint
-
-pprint(sub_calc.get_transaction_prices())
+if __name__ == "__main__":
+    sub_calc = CalculatorOfEVSE('https://hgy780tcj2.execute-api.eu-central-1.amazonaws.com/dev/data', 'interviewee',
+                                'muchpassword')
+    pprint(sub_calc.get_transaction_prices())

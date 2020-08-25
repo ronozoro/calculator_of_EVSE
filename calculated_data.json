@@ -1,0 +1,4994 @@
+[
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "5bbebad9-537e-4bb7-b3db-46c6ce58f6d6",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "b96acba8-ee5c-4df3-b0d5-d74fc4077901",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "a88dca84-be8d-485b-81ff-543ec0550d22",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "568a4b6c-dccd-48fa-b049-e0cd020ae1ec",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "50873c74-4c85-4e0a-9d39-50d7526639aa",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "46d38e2b-d934-4af4-804c-81ab265ddde1",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "3055bf7a-d962-4ad1-8989-15336821686d",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "396b9174-79fa-4be2-9056-10bffc5cfea0",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "9707b811-63ce-4d73-bbf7-6a52a9906221",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "a661b097-ce63-4893-bc56-b8b63e5fba00",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "c764247f-3031-4978-a7d0-b29b7508a2b4",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "432e0bc7-ba57-405b-a26f-b1cdef5db394",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "14c08b7b-350d-4884-84ad-c8abfc89d2ec",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "a0971c46-3a50-4edc-9ac6-56136bd8c4d5",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "6f5c3ac6-0210-40cb-82e2-3700bd9f9450",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "044ecb89-f331-471c-96db-e5ca34e123e8",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "9d458ccd-c74c-4808-a0bd-5571d954dcd3",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "6fcca403-b2c7-4c96-b205-3afa6038cfb8",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "c658d886-50f4-4849-bd0c-4c5dd07f4829",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "24902d50-24b1-4eda-abd0-1ae0f31f3a37",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "a0d95d08-222f-460d-9be4-ee05b80a9c13",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "06c6d63f-51e8-418c-a827-6f024a7ebfe5",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "fcf362f1-5c5b-429f-bdb7-cae966607f59",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "d68fd6f1-745b-4f2d-86ae-4e8aa7842a4f",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "58c8416b-3ad3-4222-8ee0-310719e9decb",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "264353fe-c9a5-4c94-84c7-7af3654a31ad",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "68a27de9-0313-4276-8baa-779dace023e7",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "474788f2-1dff-4b7e-82b2-47320a2c1516",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "ecf480f4-1df6-495f-9b00-07a09ba072a6",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "3628e0ce-6a0c-4826-8c45-cfae3c4d8c33",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "fea3fce4-587a-4af3-8073-c62ef43786b0",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "bdf11477-87c3-4456-9c24-5a3da311e823",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "c721f9a9-4a6d-40d0-a57c-586b74a6c99b",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "865a9075-ed9e-48c2-892f-6c9ae22475cb",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "e8e4103f-0d3a-421f-8d8d-56afe6beb1dd",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "c73689ac-fd34-47ac-ab86-fc3d33437756",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "2d5286f2-4ab3-4be6-af55-59d03a2643fb",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "a61e7347-b1f1-46ad-b4b5-91baab5f2ebe",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "ab94f633-4e30-43ca-8461-da8f15f5c4b9",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "f199c3e5-2624-486d-9ceb-9411a7167812",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "7a1df82e-a61a-4c51-8728-71626f5f2a14",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "a34e4635-2aad-473a-8d0f-2bf3a2b4453d",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "57daa4e5-434d-4b49-bf4e-e80c877a1945",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "9afffb02-f11e-4719-a2e5-fc0697286a53",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "16e77d7e-4101-42ad-a875-6b45d0200ab1",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "75960b73-4d74-4a4b-a308-8fdd6afcc1ba",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "2483c280-228d-4502-9523-9ebfd2e3b3f8",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "d91df562-e66c-44b3-8d5a-90940cb8979f",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "2e0e2d7b-c547-4952-949a-c2f5a8d424a1",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 8.039999999999907,
+        "session_id": "ce336fef-5ece-4ad4-ab0d-05717a48f37d",
+        "supplier_price_id": "7bac5c27-a34f-4d5d-81d2-b955a753e4e4",
+        "time_price": 0,
+        "total_price": 8.039999999999907
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e3c1583e-0a36-49c0-97ff-d88bf1639f03",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "64d04f3c-2900-4808-8e1d-0101a24ddf46",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "27343ca9-dcfc-4a41-8f75-6f22a8f4ab87",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "58b50ec8-f09b-4475-803b-d93881bb7015",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7f1bfdd3-b3ec-4fac-bf2c-6b0ffa94d881",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a5fd3f77-afd9-41a7-abcd-400aa70d85bd",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "da777c94-e15e-406c-b786-d4c22b9ef340",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "527732bd-71d8-41bf-b10a-7f86b07ff4d8",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "b0ed9fc6-ad73-450c-b174-c835d869183d",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "8f34a717-6414-4b87-a98e-5430e9f25f16",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "920c7a63-e576-47a8-bbd9-e84ccb6b3ab6",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "fe274b9a-3198-401c-b2b9-bb49bc05a0de",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e2f16293-1bc7-4772-a545-628baa8c5e17",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c5e1a596-afde-4507-a244-651e0ef26e7b",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "06002330-39ca-4e13-ba32-dc17dbd40e64",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "1b384545-b374-40bb-8275-0a1e6d3fe769",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "d876797d-20a3-4af6-9f3d-b147547cd9f0",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "d99f29ea-b9ec-46bb-b09d-0cbf75f9fea8",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "41a687ed-7b98-4580-817c-678d1cd92797",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e9ebf7ff-9102-4f5b-8dfb-068b7f40a999",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "4960252a-24de-417a-8f8c-3cbd0c76e39d",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "63763216-aaa8-464b-b44e-4c7231bf00bf",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "aa673de0-68e2-498a-b351-b7bc48d1ab1c",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "688238c8-c42e-48a1-8e5c-9dac707382ea",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "ad1afecd-a5bc-4ca9-9462-ab7cdae178cf",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e80e88e9-4837-49fa-9180-eb58fca83c3e",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "d45c82df-98cc-4214-a630-66c4850dfc9e",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "eb121674-0eb6-442a-9fb6-fdaafcabe53e",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "bd1c776a-5461-4696-a5ba-32e4d4de7154",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "2dfe88b4-1de1-4a33-b997-0dd6a799cce5",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c30899c5-11b3-4709-9334-7159419b646a",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "0f7be199-8fa1-4ddc-9203-64f815ccdfb0",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "6eb1b147-4c31-4606-808a-8b50a222169b",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "98524c70-23ae-400e-9d67-9cf64fb2a8b1",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "505220a1-6e93-4453-a24c-cd3f290f9dfb",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "82b53a1f-c5c4-45b4-94ea-adccfa9e4bcf",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c70bf9e1-29da-461f-aadb-6af07e7c3bec",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "d51a0ef5-4025-4598-b4a6-2ba303188a3c",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7aa8e070-7ac4-44ce-b427-00c475ab6a9c",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "100ecc85-3b1b-4862-bc77-6168434564f1",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "2f30d087-c67f-4843-a52f-0267e4aabc74",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "998730c6-3131-4c4d-863a-e21bf9094209",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "ff640380-a941-4139-a4a1-52d1884e6b61",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "0f292e04-42c7-4284-a957-df9e72a4c115",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "0bbf0f82-b773-4342-9d7d-fe4500c113bc",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "356bdae1-2de6-4bb9-89cd-fbaa81c3afe7",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a1d67421-76a2-48ec-bb0b-0762587be030",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "32558055-b9ff-4429-80c3-4e1c12c4ef15",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "71b820e4-0a7d-4a1e-9d3c-0bc838cd24c6",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "2698469b-555f-47e3-be1c-7ed404fb9359",
+        "supplier_price_id": "6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "88bca087-38c6-487d-a6f8-e566e603f302",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "e05d5000-d026-4c4d-ade1-6593b30d0470",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "b31a2272-2ec1-448f-a659-011e2e2eb5e2",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "e63b6673-ef6d-4b93-aaa1-577118dc9f54",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "421379ca-63f1-443e-88ee-3e64d9b54252",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "85dc38f1-ee26-42e3-902f-98c5c1ce1afe",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "d920dd04-d300-4673-92a4-3d7e943ea9e1",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "03ebdaa1-e5c3-433d-a5fe-36f7e0344700",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "b03da900-5e27-43d2-9818-7902d965517a",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 6.755999999999999,
+        "session_id": "477c3b89-39eb-4c26-bc4d-88c5a5277cfb",
+        "supplier_price_id": "a29775d9-26c1-48c9-a483-ee40ab5917a7",
+        "time_price": 0,
+        "total_price": 6.755999999999999
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "1262c1c4-91e8-4e94-9e9d-7b0db2939e40",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "daa2c50e-33c4-41fb-8909-cecf651b73ca",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "b2356022-71df-4393-b196-f890a6dee555",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "f649408a-e17e-4841-a107-afce4e077472",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "daf1b446-0362-4650-b7d3-2e5b3a6fe9e5",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "0f00fc28-59d0-4b60-a526-5f3cecf97aa9",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "c1a215b5-57af-4d68-a8a6-286427b13183",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "bea183f9-c3a0-48f2-a30a-ac46167cd618",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 8.9632,
+        "kwh_price": 0,
+        "session_id": "f91e7e08-13ba-45e0-8a51-f6bda20c4c1b",
+        "supplier_price_id": "f1ae2063-e04d-4ff3-8ae0-44296eee5fe0",
+        "time_price": 0,
+        "total_price": 8.9632
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.1888,
+        "session_id": "a361efa7-e2ed-485b-8a0a-b62a6048aa35",
+        "supplier_price_id": "e8a874fa-a7ef-498a-8840-309613b1a76e",
+        "time_price": 0,
+        "total_price": 17.1888
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "197d3872-8169-4929-a73b-9782e008cf4a",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "75b5f145-f041-40dc-9d7b-a812b1e04334",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "ddd05fcb-95ba-43ac-95fd-08af62d9d9c5",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "4bfb4839-1ce5-44f4-8a12-6eaa9ac445f9",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "265b152c-0035-42f7-badf-27eba9d2bedd",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "1a0f386c-4eb2-440b-919e-ac5af3ad59db",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "f3bca465-d8da-4c47-84da-e6abb12d222b",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "0ebaac3f-d9fb-427b-898e-d96ae49954bc",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "99a9ff2e-45df-4bcd-9695-bb62ff61a2c9",
+        "supplier_price_id": "2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "40c821f9-9fe2-4ef4-a295-df329a8fac7d",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "54faa9a4-70d5-4f40-af24-9fef7f3722ce",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "df63fb96-3897-4b82-8476-224dcc8c2ee6",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "fbde5185-1f08-4a36-895b-14b08659b3f1",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "5368e620-8ff8-408a-8ebc-a5289f2c0771",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "6025ba99-abcf-446f-babe-4bf6b462e054",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "66692f9c-af24-4f00-aafd-387598e60b56",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "dd5a40c7-6954-480e-9020-74dfd451e575",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 22.6128,
+        "session_id": "7bad4294-bc22-40c0-b448-6466c2f72257",
+        "supplier_price_id": "fffdfeb3-0f1a-454d-9abb-495962443afe",
+        "time_price": 0,
+        "total_price": 22.6128
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "c1c969c6-827c-44c0-a046-b62e0bd367e2",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "bc03ec30-6215-4d76-b92f-aa4e7172fc05",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "69c7aee3-75b5-4738-9f7b-d77574e6d249",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "280389ab-f127-4afd-99f8-bca7d165b943",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "4ac2e26d-7de6-48c9-b8fc-95ea6615ec5b",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "4a104b32-7906-4007-b0e1-cbd404555c88",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "e1b81f8e-e65b-42df-9102-d98097a0db30",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "96550894-1d85-45f6-85c3-c883836d1b64",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 2.8752,
+        "kwh_price": 28.084799999999998,
+        "session_id": "ed072840-9515-456c-9c7c-92629dca44b7",
+        "supplier_price_id": "39d22381-16b6-486a-a095-d30e4bbcb8b3",
+        "time_price": 0,
+        "total_price": 30.959999999999997
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "87c8bcb8-bac2-4b19-a682-4e09cfc72c57",
+        "supplier_price_id": "1a6b6fd3-6169-49ca-81d6-5e7d9eefe6d0",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 9.7478,
+        "kwh_price": 3.3768,
+        "session_id": "0d2b67f5-8829-4997-b0d3-39c1494b0fff",
+        "supplier_price_id": "15e2478c-d158-41eb-80a4-ed71eb95a5e1",
+        "time_price": 0,
+        "total_price": 13.1246
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 1.3008,
+        "session_id": "3a03d038-c54d-40a6-bb99-285d866cf0a5",
+        "supplier_price_id": "93741657-df13-4cb1-b7de-4d3e01db0c37",
+        "time_price": 0,
+        "total_price": 1.3008
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 16.0488,
+        "session_id": "dc8fdf00-925c-4d13-9551-2ee41aded12e",
+        "supplier_price_id": "ab5b5913-328b-4023-a7ca-4aa90cfe913d",
+        "time_price": 0,
+        "total_price": 16.0488
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7333156e-ed44-43b9-a2e9-b8f93d0eb307",
+        "supplier_price_id": "a864f296-ea5d-45c5-a0c9-248c3cc7b92c",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "28f03b70-18ab-4668-a7a1-73a213b2ec6b",
+        "supplier_price_id": "a864f296-ea5d-45c5-a0c9-248c3cc7b92c",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "01a6431b-41e9-400e-b41d-3d6d50ee98d6",
+        "supplier_price_id": "a864f296-ea5d-45c5-a0c9-248c3cc7b92c",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a4804d39-1f3a-4791-b541-2db63b35f35a",
+        "supplier_price_id": "a864f296-ea5d-45c5-a0c9-248c3cc7b92c",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "794ce866-9f3c-4737-99a5-58c123b6c125",
+        "supplier_price_id": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "0fd20a1d-c71b-41c4-8edc-e08737b47212",
+        "supplier_price_id": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "d72f4193-4b86-4692-87d7-85a2d1e8c1c2",
+        "supplier_price_id": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "369de878-3010-4c37-bf5c-67b9b136d99e",
+        "supplier_price_id": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "c725e445-a245-4391-aa0e-46ae89f58613",
+        "supplier_price_id": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "16c46515-1152-43b4-a58a-37e1c1a0119b",
+        "supplier_price_id": "ee2c2fd3-64f9-4af9-b8a8-94a50d354d65",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "8e0b459b-dd76-4e77-a284-76b042041d02",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "cdefe21a-e9b5-47db-9cab-c0a8580d8db2",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "768da878-07f8-4b6c-b090-6637d9c0c66e",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "10912b27-9b67-4a20-b5bd-1bf84360f59a",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "a238a1f2-20b9-4f73-97df-10333aa47865",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "e0fd0a24-bd5a-4cec-a8e4-358f5c3971e9",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "267b833d-be5b-44a9-b260-33444aa3bf65",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "a728080e-c0f0-4e07-a819-5586f78f1293",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 19.0464,
+        "session_id": "e9f6faad-363f-498e-976e-7ba3d984bb0d",
+        "supplier_price_id": "4c8eb3e4-e68a-4dea-91f3-2e88c10121c0",
+        "time_price": 0,
+        "total_price": 19.0464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "c242a22f-09b6-43ae-9474-a40a1b192400",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "12191175-b884-49ed-aa63-dab9a103e3ea",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "15d56d67-fd38-4eba-8deb-146febf54a1d",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "c09c130f-7241-498d-83c4-d2695833b6c8",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "cd4ebb03-db15-434a-84ed-fc347b92af36",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "f62312bd-5c59-48a9-bcc1-3344c2bc8a76",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 13.584,
+        "session_id": "135749b2-2b7f-44eb-a365-ae5eee9fe343",
+        "supplier_price_id": "ea5edd98-7128-4317-9e41-4b2780619d39",
+        "time_price": 0,
+        "total_price": 13.584
+    },
+    {
+        "fee_price": 2.2509,
+        "kwh_price": 25.9248,
+        "session_id": "31f461a5-ab09-4da9-ba95-898e984477d8",
+        "supplier_price_id": "2e589e2e-a6db-4164-8cd0-444465d54504",
+        "time_price": 0,
+        "total_price": 28.175700000000003
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 16.051199999999998,
+        "session_id": "4d3b1cab-ce3c-4129-af94-9fc98b189652",
+        "supplier_price_id": "4ebdf79f-14f5-4b04-bf0b-651bcdc13675",
+        "time_price": 0,
+        "total_price": 16.051199999999998
+    },
+    {
+        "fee_price": 6.4971,
+        "kwh_price": 0,
+        "session_id": "8ba91913-e32f-4847-8f53-9e4cdf714beb",
+        "supplier_price_id": "f49931c1-8e55-4ef8-bea8-f8f22c42369f",
+        "time_price": 0,
+        "total_price": 6.4971
+    },
+    {
+        "fee_price": 4.3517,
+        "kwh_price": 0,
+        "session_id": "be688287-8daa-4705-8510-6012d514233c",
+        "supplier_price_id": "ccf08f9a-ad8e-44ee-bbfc-ea33eed84d1e",
+        "time_price": 0,
+        "total_price": 4.3517
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "289797e6-f2f8-433a-b76f-d74a7f42b058",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "e5639ca7-020a-4c5c-ba05-16c919d6e7d8",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "959b855b-2c69-4bce-b3c3-164d765e9d54",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "a7ff0363-cf8a-4241-88ab-2b2df045ddb3",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "a7656eec-8fb7-4293-b5a2-e40d0c20dbcd",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "16dcf5ae-a29c-4471-9aa0-ece2846a6bf0",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "dcb5009b-f5f4-4f63-9ff8-00fae4c4efc2",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "7fd528d7-c96a-4e10-813f-cc3df0903099",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 6.0943,
+        "kwh_price": 0,
+        "session_id": "bbdbb218-cf0f-4f2c-9bf5-9f9b5b2256f1",
+        "supplier_price_id": "a2077145-d742-4b2d-aa7b-f87c48b07702",
+        "time_price": 0,
+        "total_price": 6.0943
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "7bd15fb3-97fb-4563-ba61-756729fc8b52",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "0c14a2fe-3ca8-492a-88a3-98a6c7da9fa0",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "a27c9a63-fc94-43c1-b9bc-f131c8b17c3c",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "0a70198b-7496-4e77-ac4d-5fe3a69e688e",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "2de5f97e-7623-46b4-ae7f-17406e196a07",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "b4815d60-abb8-48e1-8937-8e1a994401ab",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "7925d050-5124-41ae-baa8-87feea99e45b",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "0be74a20-d1ff-478a-ad85-978041aad715",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 8.5753,
+        "kwh_price": 0,
+        "session_id": "4e5fcfbd-b654-4acd-9fae-47dfff0a2230",
+        "supplier_price_id": "c9986216-6886-42b9-8d6d-464f7c5b5566",
+        "time_price": 0,
+        "total_price": 8.5753
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "1b864969-8df1-49d4-aa4f-175197319df1",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "a51f0473-3c87-4db7-9abf-054637eccb31",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "1f20a3c8-6424-479e-bac6-3733552f5b20",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "112acf6c-f920-47bb-93a7-7eff05464c24",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "b016e7df-da95-40a9-9174-1a121477e8f3",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "b21b99b6-72f1-4840-b803-d68dd6cc76f3",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "6a610958-cc37-4536-b792-54de56aa8446",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "d96b0f88-5079-4317-8101-9bb162f995f0",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 25.7976,
+        "session_id": "51c0f9ad-e1f1-4952-b7c7-3290f19bba0f",
+        "supplier_price_id": "7d4f0912-68a4-46c3-8773-2739eb80877a",
+        "time_price": 0,
+        "total_price": 25.7976
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "5c1ebb9c-8118-42dd-9450-e61ede6d7e60",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "eb0c25d5-995e-4e8a-a8de-3fd27404bc7c",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "f3f404fa-48cf-4a2b-b988-73fde8e6aae9",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "34448f2d-6f60-4135-8d7d-e4b230862947",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "c4d80287-a595-4119-8646-4e1e379d0535",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "e0e83383-9291-48cb-9c3a-524e794af2e7",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "d0ffd352-d54f-4ce6-8153-8a27d7049f63",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "789c42d1-a72a-4642-8e8e-9e3645b152ef",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 8.387,
+        "kwh_price": 0,
+        "session_id": "e34c99a3-ae4c-44bd-9429-665267f35d9a",
+        "supplier_price_id": "757d5c09-3086-4d72-8366-48c5ac8efd97",
+        "time_price": 0,
+        "total_price": 8.387
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "6864d972-6278-4114-9228-49d1dff74ca4",
+        "supplier_price_id": "ee3e4740-4312-40c1-8d8d-0266799f072d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "6634bc4b-d406-4db0-8fec-0b090b388580",
+        "supplier_price_id": "ee3e4740-4312-40c1-8d8d-0266799f072d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 9.5651,
+        "kwh_price": 25.3128,
+        "session_id": "108baefd-b508-4ba6-80e8-bae2b35df56c",
+        "supplier_price_id": "4519f31e-afa2-434e-a3d5-52f65bb33675",
+        "time_price": 0,
+        "total_price": 34.8779
+    },
+    {
+        "fee_price": 9.5651,
+        "kwh_price": 25.3128,
+        "session_id": "21a3482e-51bd-4c41-b816-76dbe1be34b7",
+        "supplier_price_id": "4519f31e-afa2-434e-a3d5-52f65bb33675",
+        "time_price": 0,
+        "total_price": 34.8779
+    },
+    {
+        "fee_price": 6.5341,
+        "kwh_price": 44.7912,
+        "session_id": "cc765d4b-03c6-4e0b-baca-bcb3de590473",
+        "supplier_price_id": "d89d9476-9854-4f49-a0b6-47bf06bbb84e",
+        "time_price": 0,
+        "total_price": 51.325300000000006
+    },
+    {
+        "fee_price": 6.5341,
+        "kwh_price": 44.7912,
+        "session_id": "cf957abe-b0fb-44bb-af17-035fd670f513",
+        "supplier_price_id": "d89d9476-9854-4f49-a0b6-47bf06bbb84e",
+        "time_price": 0,
+        "total_price": 51.325300000000006
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f6466ba8-0a0a-40f2-b1af-594a54acf821",
+        "supplier_price_id": "9b4b2ef9-d955-49b5-b8e3-515d81f656bf",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "230b4712-e430-4114-8100-8c3b6b717fb2",
+        "supplier_price_id": "9b4b2ef9-d955-49b5-b8e3-515d81f656bf",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "3d548f67-d487-462a-b22d-91b7bdd2cd3e",
+        "supplier_price_id": "ebc91f0e-354e-4f34-b276-8f55b5aab9a3",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "429d0be7-7151-43e8-a4bf-99c4e59939c9",
+        "supplier_price_id": "ebc91f0e-354e-4f34-b276-8f55b5aab9a3",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.8752,
+        "session_id": "ff7efe9d-93a4-4fde-a7e6-4cfb42ce1923",
+        "supplier_price_id": "5968df09-2857-456c-91b6-853a71a248d2",
+        "time_price": 0,
+        "total_price": 35.8752
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.8752,
+        "session_id": "48b59c88-da42-46aa-90f8-b030b532c2e7",
+        "supplier_price_id": "5968df09-2857-456c-91b6-853a71a248d2",
+        "time_price": 0,
+        "total_price": 35.8752
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "fe413eee-fbea-4095-a61c-f0af61583a0f",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "b3213564-ccde-48ab-a594-17137b742e1f",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "7fa6803e-17be-46cb-b3ff-e1eea650027b",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "95b1da65-3c06-4a82-bbd0-8aadd41d9bc7",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "bf180844-3d53-4b06-a86e-8a642b4ba62e",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "1defb098-832c-49ad-90a0-1a18a12b6030",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "b8b3cc0d-5e97-4ffa-9af3-f014c49de29e",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "25d328d8-3ff7-4baa-900e-9bda4bc42b42",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 3.2464,
+        "kwh_price": 0,
+        "session_id": "e24285ad-4825-4bab-ab3a-03d1e3a8e2a3",
+        "supplier_price_id": "f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e",
+        "time_price": 0,
+        "total_price": 3.2464
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "4975b4de-afec-4815-bf1b-e093d8fc1ae4",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "ba2ceee4-7690-4278-bf64-57787799eeb8",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "207c10b5-19da-444b-96e3-470e59d7efdf",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "85e68e8a-8f41-4b04-9e22-41c2f1ffebca",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "26f8f6a6-5a34-45bd-a5d2-a155f5f6a23a",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "8ed70b3a-e14d-49da-9c3d-e3e0f154dae0",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "2e6eb3cb-b96c-4601-b9e8-0ec20a37933c",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "a93ae007-3465-47e4-b121-09e689d69aee",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.7368,
+        "session_id": "d66b2f15-326d-4490-8c5e-63cf0d89eab1",
+        "supplier_price_id": "ddef02ed-cf27-43e7-a2f7-7ee3792faa13",
+        "time_price": 0,
+        "total_price": 3.7368
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "eb636b67-0e74-4a3b-9592-3b11eb882f2a",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "01ec392d-55d3-4d18-a084-f606dcb15f94",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "112d966a-91ac-4021-983c-67129576ca8d",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "5ec19ddd-aa7b-438a-9536-c1a448051032",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "fa1848a6-74e8-4051-a50d-deca27573f26",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "edad8791-e8bb-4d61-8840-0f8744053334",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "5afddb1a-5c00-4c6c-92c2-d2aaca76ce81",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "17a6b7b3-35cf-4643-95f7-6e8b0a9b56bc",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 5.6318,
+        "kwh_price": 0.0,
+        "session_id": "06a351eb-5e6e-4162-88c1-355c71a8579b",
+        "supplier_price_id": "1284c769-c51a-42af-834a-585bd259c765",
+        "time_price": 0,
+        "total_price": 5.6318
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "ee9ff585-201c-4ccb-b908-6f06fcaccf75",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "b1ea2be2-676b-4fbd-85d2-a0ad131dee05",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "d984a2d6-f8ae-4f6d-b7ac-dbf8d9c49d6a",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f3a54a5e-6b1f-456b-a936-a21b0fab753d",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "0064cc90-ab65-44df-aeeb-c580c706d836",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "e9fbbb97-b610-43ec-be8f-c3060e737fdf",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "78643459-2faf-4987-9a7a-ba787c12940a",
+        "supplier_price_id": "55b88d20-2de5-4a80-b0f1-df2a8f0cd578",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "fd5a4986-99ce-468d-8382-099ed7988ee6",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "b58f2bce-f27f-4274-83ed-56ef8eb17c22",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "faaef5a8-b25f-44fe-ae16-aaf0fa0a7eed",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "77351cdb-cb16-4c98-b949-4e3132097884",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "d3664734-cf8e-4ba6-a3ec-d050d96da7b1",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "e52121c5-04a0-40b3-bb63-3b7ef2302975",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 2.1649,
+        "kwh_price": 0,
+        "session_id": "e272a9ac-ac1a-47f1-badb-9f285b0acacf",
+        "supplier_price_id": "88a423aa-aeb4-4256-8a23-6bcaca61c420",
+        "time_price": 0,
+        "total_price": 2.1649
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "265e56aa-7f75-4a9e-ae9a-6dd9e80566a9",
+        "supplier_price_id": "37779f1a-20c6-453a-9077-d37796518501",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "e0c8f76a-4b1b-43ad-8d2a-41265f874a31",
+        "supplier_price_id": "37779f1a-20c6-453a-9077-d37796518501",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "437ac7e3-cfaa-4239-99f8-1e02e6ec548d",
+        "supplier_price_id": "37779f1a-20c6-453a-9077-d37796518501",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "2995967a-5b6d-486e-b895-49ff834ed29b",
+        "supplier_price_id": "37779f1a-20c6-453a-9077-d37796518501",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "2cfb1efc-7046-422d-ba12-a6f87fc630fa",
+        "supplier_price_id": "37779f1a-20c6-453a-9077-d37796518501",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "32d46814-18b3-4ca4-b8f5-ce79c394467b",
+        "supplier_price_id": "37779f1a-20c6-453a-9077-d37796518501",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 4.3246,
+        "kwh_price": 14.1312,
+        "session_id": "39ed1f62-dc86-49fa-86d8-a86f96cb3b11",
+        "supplier_price_id": "2df0c8b3-5b51-4a3d-8f75-cf09d5199548",
+        "time_price": 0,
+        "total_price": 18.4558
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 42.892799999999994,
+        "session_id": "083ca5db-ec91-4f3c-b336-c1e818c745c8",
+        "supplier_price_id": "f7c537d6-2cac-49af-932e-2e01b360a10d",
+        "time_price": 0,
+        "total_price": 42.892799999999994
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "beab6d70-73cd-4f5a-8968-b3b3d1664587",
+        "supplier_price_id": "50574d40-515d-4df6-99d5-9ee3e27f245d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e3fcfaac-4faa-4750-94de-a6c276bb1f66",
+        "supplier_price_id": "50574d40-515d-4df6-99d5-9ee3e27f245d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "8d9ee6f5-0203-472e-b7ba-becdf2e6e061",
+        "supplier_price_id": "50574d40-515d-4df6-99d5-9ee3e27f245d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c94234dc-9d47-4f1d-9cc2-495f2bd8d3fd",
+        "supplier_price_id": "50574d40-515d-4df6-99d5-9ee3e27f245d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 5.2867,
+        "kwh_price": 0.0,
+        "session_id": "ddbb4c0b-6c8f-4525-aea9-0902ff60bb84",
+        "supplier_price_id": "37758618-3c0f-405b-959b-687bab01b70d",
+        "time_price": 0,
+        "total_price": 5.2867
+    },
+    {
+        "fee_price": 5.2867,
+        "kwh_price": 0.0,
+        "session_id": "c670b6a6-2200-49d8-919c-fcb78338dc52",
+        "supplier_price_id": "37758618-3c0f-405b-959b-687bab01b70d",
+        "time_price": 0,
+        "total_price": 5.2867
+    },
+    {
+        "fee_price": 5.2867,
+        "kwh_price": 0.0,
+        "session_id": "acfe88ba-56f4-458a-8226-11ac64465778",
+        "supplier_price_id": "37758618-3c0f-405b-959b-687bab01b70d",
+        "time_price": 0,
+        "total_price": 5.2867
+    },
+    {
+        "fee_price": 5.2867,
+        "kwh_price": 0.0,
+        "session_id": "b3248ed8-07ac-4f6e-81ea-f6968223394a",
+        "supplier_price_id": "37758618-3c0f-405b-959b-687bab01b70d",
+        "time_price": 0,
+        "total_price": 5.2867
+    },
+    {
+        "fee_price": 5.2867,
+        "kwh_price": 0.0,
+        "session_id": "7cd09166-ab72-4a96-8219-afdbc18c0384",
+        "supplier_price_id": "37758618-3c0f-405b-959b-687bab01b70d",
+        "time_price": 0,
+        "total_price": 5.2867
+    },
+    {
+        "fee_price": 5.2867,
+        "kwh_price": 0.0,
+        "session_id": "57a20734-9a76-4bfe-b3b0-98ef32ebd29e",
+        "supplier_price_id": "37758618-3c0f-405b-959b-687bab01b70d",
+        "time_price": 0,
+        "total_price": 5.2867
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "e255aa3f-666d-40d0-8ec9-e0486ad4fe1d",
+        "supplier_price_id": "a4fb92fe-7efb-4017-9953-e1f483dd63bb",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "bdd51b8b-754a-41ed-b1d3-8d75bec7c674",
+        "supplier_price_id": "a4fb92fe-7efb-4017-9953-e1f483dd63bb",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "5dfc2ac0-1278-4c15-b258-fb712fab3cd3",
+        "supplier_price_id": "a4fb92fe-7efb-4017-9953-e1f483dd63bb",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "26ad5b6a-ec3e-4b9e-a3bc-bc39dafa57bb",
+        "supplier_price_id": "a4fb92fe-7efb-4017-9953-e1f483dd63bb",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 37.2168,
+        "session_id": "4bf2795e-8e99-40be-9225-802bfbf1271b",
+        "supplier_price_id": "2fed9582-52ff-4ae1-b333-1739fd9b451d",
+        "time_price": 0,
+        "total_price": 37.2168
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 37.2168,
+        "session_id": "faee4015-ecb5-416d-a1ff-f59ec29dba7a",
+        "supplier_price_id": "2fed9582-52ff-4ae1-b333-1739fd9b451d",
+        "time_price": 0,
+        "total_price": 37.2168
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 37.2168,
+        "session_id": "161349bf-e362-427b-a483-ab7b3955427c",
+        "supplier_price_id": "2fed9582-52ff-4ae1-b333-1739fd9b451d",
+        "time_price": 0,
+        "total_price": 37.2168
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 37.2168,
+        "session_id": "8df94690-dc83-44fb-9cd5-7a97925b4e06",
+        "supplier_price_id": "2fed9582-52ff-4ae1-b333-1739fd9b451d",
+        "time_price": 0,
+        "total_price": 37.2168
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 43.5672,
+        "session_id": "d97adb02-766c-471f-b327-84ff94c8ab70",
+        "supplier_price_id": "3fe75726-963e-43b6-ac7f-74051183f713",
+        "time_price": 0,
+        "total_price": 43.5672
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 43.5672,
+        "session_id": "1f474f01-c5a1-4a46-8dc9-a854456db05e",
+        "supplier_price_id": "3fe75726-963e-43b6-ac7f-74051183f713",
+        "time_price": 0,
+        "total_price": 43.5672
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 43.5672,
+        "session_id": "e48e8efa-d85e-4f46-835d-58bfe5174e49",
+        "supplier_price_id": "3fe75726-963e-43b6-ac7f-74051183f713",
+        "time_price": 0,
+        "total_price": 43.5672
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 43.5672,
+        "session_id": "03b5ac04-29d1-415a-a4e3-8c54c1a8a156",
+        "supplier_price_id": "3fe75726-963e-43b6-ac7f-74051183f713",
+        "time_price": 0,
+        "total_price": 43.5672
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 2.5032,
+        "session_id": "a2766dc6-a683-4355-9066-821ebe9eeea9",
+        "supplier_price_id": "0594e869-3f87-4d56-9bdb-e6ca3cb757f9",
+        "time_price": 0,
+        "total_price": 2.5032
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 2.5032,
+        "session_id": "ffbb36ea-bc4e-443f-8604-761f065e90b1",
+        "supplier_price_id": "0594e869-3f87-4d56-9bdb-e6ca3cb757f9",
+        "time_price": 0,
+        "total_price": 2.5032
+    },
+    {
+        "fee_price": 1.6262,
+        "kwh_price": 0,
+        "session_id": "faffb54e-bb63-49db-b4ab-7b01530c3373",
+        "supplier_price_id": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "time_price": 0,
+        "total_price": 1.6262
+    },
+    {
+        "fee_price": 1.6262,
+        "kwh_price": 0,
+        "session_id": "156607f7-abca-41ea-bac2-c990c050f950",
+        "supplier_price_id": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "time_price": 0,
+        "total_price": 1.6262
+    },
+    {
+        "fee_price": 1.6262,
+        "kwh_price": 0,
+        "session_id": "fb3bc187-d511-4456-b18e-de99f2f4e488",
+        "supplier_price_id": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "time_price": 0,
+        "total_price": 1.6262
+    },
+    {
+        "fee_price": 1.6262,
+        "kwh_price": 0,
+        "session_id": "cb31eb28-8084-4def-8927-c7971c16bf28",
+        "supplier_price_id": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "time_price": 0,
+        "total_price": 1.6262
+    },
+    {
+        "fee_price": 1.6262,
+        "kwh_price": 0,
+        "session_id": "60ad2afb-03da-465f-82be-653c0f2e74c8",
+        "supplier_price_id": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "time_price": 0,
+        "total_price": 1.6262
+    },
+    {
+        "fee_price": 1.6262,
+        "kwh_price": 0,
+        "session_id": "404775a3-a9b6-4dd7-8806-3a913768803f",
+        "supplier_price_id": "42e34a1e-9661-4d94-94ff-d9c0188f0772",
+        "time_price": 0,
+        "total_price": 1.6262
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 20.258399999999998,
+        "session_id": "34035d1f-f9c5-4e75-9f11-6bf96b405586",
+        "supplier_price_id": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "time_price": 0,
+        "total_price": 20.258399999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 20.258399999999998,
+        "session_id": "761e4737-f207-488f-b0fd-c91f48f3e90a",
+        "supplier_price_id": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "time_price": 0,
+        "total_price": 20.258399999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 20.258399999999998,
+        "session_id": "9d69c0f7-4c0a-40dc-9dff-8032615d509e",
+        "supplier_price_id": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "time_price": 0,
+        "total_price": 20.258399999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 20.258399999999998,
+        "session_id": "ee4d40d2-dc26-40f8-98f3-fdfe46b96e00",
+        "supplier_price_id": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "time_price": 0,
+        "total_price": 20.258399999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 20.258399999999998,
+        "session_id": "c7baad22-aa37-4363-8d36-93062a9fdbae",
+        "supplier_price_id": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "time_price": 0,
+        "total_price": 20.258399999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 20.258399999999998,
+        "session_id": "6c6a7627-37e6-4338-9c46-8ef5e812de92",
+        "supplier_price_id": "ee07a879-7678-4483-b2e7-0a35758ec69d",
+        "time_price": 0,
+        "total_price": 20.258399999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 11.7336,
+        "session_id": "863a9472-2254-46a0-b569-9c5b93a53cc9",
+        "supplier_price_id": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "time_price": 0,
+        "total_price": 11.7336
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 11.7336,
+        "session_id": "f26ae649-529f-4a36-b455-aebf261d4772",
+        "supplier_price_id": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "time_price": 0,
+        "total_price": 11.7336
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 11.7336,
+        "session_id": "80435c89-454f-4b53-807a-06e8ef1b707b",
+        "supplier_price_id": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "time_price": 0,
+        "total_price": 11.7336
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 11.7336,
+        "session_id": "7f99bda1-b4bd-45ae-8c6d-f818a6aec155",
+        "supplier_price_id": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "time_price": 0,
+        "total_price": 11.7336
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 11.7336,
+        "session_id": "5bfa03c1-7cb8-43e7-893f-ca867a29fba8",
+        "supplier_price_id": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "time_price": 0,
+        "total_price": 11.7336
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 11.7336,
+        "session_id": "e0c701dc-f831-41a4-ba5d-866fee9b36d1",
+        "supplier_price_id": "261fb296-69ae-409b-bdf4-44383fc3fdb8",
+        "time_price": 0,
+        "total_price": 11.7336
+    },
+    {
+        "fee_price": 6.8982,
+        "kwh_price": -1958.7359999999999,
+        "session_id": "47c8bd74-b6d6-4674-ae8a-49f21c220a41",
+        "supplier_price_id": "decd249b-ce93-4f72-8221-672f4ec882a5",
+        "time_price": 0,
+        "total_price": -1951.8377999999998
+    },
+    {
+        "fee_price": 6.8982,
+        "kwh_price": -1958.7359999999999,
+        "session_id": "6922f4db-ca0d-4510-bfe6-ded971f33c46",
+        "supplier_price_id": "decd249b-ce93-4f72-8221-672f4ec882a5",
+        "time_price": 0,
+        "total_price": -1951.8377999999998
+    },
+    {
+        "fee_price": 6.8982,
+        "kwh_price": -1958.7359999999999,
+        "session_id": "6e6ede2b-eb0e-4fa7-b2ab-ca1138d60f38",
+        "supplier_price_id": "decd249b-ce93-4f72-8221-672f4ec882a5",
+        "time_price": 0,
+        "total_price": -1951.8377999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.5208,
+        "session_id": "9a690cc1-add6-42b3-b33e-74506595f6d6",
+        "supplier_price_id": "d1fe1917-d8d9-4824-a8ca-0308a35d9107",
+        "time_price": 0,
+        "total_price": 3.5208
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.5208,
+        "session_id": "0d7963f3-4355-4a8a-b655-c5c4175cefcc",
+        "supplier_price_id": "d1fe1917-d8d9-4824-a8ca-0308a35d9107",
+        "time_price": 0,
+        "total_price": 3.5208
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 3.5208,
+        "session_id": "30d0b2cf-9b72-4951-afd7-7d852133f202",
+        "supplier_price_id": "d1fe1917-d8d9-4824-a8ca-0308a35d9107",
+        "time_price": 0,
+        "total_price": 3.5208
+    },
+    {
+        "fee_price": 2.8264,
+        "kwh_price": 0.636,
+        "session_id": "77b95b65-a82a-4f90-87ad-2bffb872c3eb",
+        "supplier_price_id": "66fb2ec1-9473-45ea-b987-c156f51aca52",
+        "time_price": 0,
+        "total_price": 3.4624
+    },
+    {
+        "fee_price": 2.8264,
+        "kwh_price": 0.636,
+        "session_id": "29c87fc9-e800-4050-8317-c6e0ce674289",
+        "supplier_price_id": "66fb2ec1-9473-45ea-b987-c156f51aca52",
+        "time_price": 0,
+        "total_price": 3.4624
+    },
+    {
+        "fee_price": 2.8264,
+        "kwh_price": 0.636,
+        "session_id": "72f7e1a2-54de-4e6c-958a-55089cc5f1ea",
+        "supplier_price_id": "66fb2ec1-9473-45ea-b987-c156f51aca52",
+        "time_price": 0,
+        "total_price": 3.4624
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 27.119999999999997,
+        "session_id": "4adcc5e0-ea30-4746-997a-06917540afe6",
+        "supplier_price_id": "496f0156-96ca-4d15-8ee2-da1fcd155144",
+        "time_price": 0,
+        "total_price": 27.119999999999997
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 27.119999999999997,
+        "session_id": "bcc12022-a289-44da-8c35-f47220db7698",
+        "supplier_price_id": "496f0156-96ca-4d15-8ee2-da1fcd155144",
+        "time_price": 0,
+        "total_price": 27.119999999999997
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 27.119999999999997,
+        "session_id": "d12d8dac-395b-44a7-a80a-d7b7ee1166d7",
+        "supplier_price_id": "496f0156-96ca-4d15-8ee2-da1fcd155144",
+        "time_price": 0,
+        "total_price": 27.119999999999997
+    },
+    {
+        "fee_price": 4.9051,
+        "kwh_price": 29.395200000000003,
+        "session_id": "fbe0efcb-1e94-4d02-bf59-cc3571382fb2",
+        "supplier_price_id": "0f532615-bc8d-49a1-8165-b4ff0ec4f295",
+        "time_price": 0,
+        "total_price": 34.3003
+    },
+    {
+        "fee_price": 4.9051,
+        "kwh_price": 29.395200000000003,
+        "session_id": "7d9d6ccc-0881-475b-a07e-6e86b6579ca6",
+        "supplier_price_id": "0f532615-bc8d-49a1-8165-b4ff0ec4f295",
+        "time_price": 0,
+        "total_price": 34.3003
+    },
+    {
+        "fee_price": 4.9051,
+        "kwh_price": 29.395200000000003,
+        "session_id": "cc866dd6-0b96-4619-92f9-bcb438029a76",
+        "supplier_price_id": "0f532615-bc8d-49a1-8165-b4ff0ec4f295",
+        "time_price": 0,
+        "total_price": 34.3003
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 9.1176,
+        "session_id": "8d4e0c01-c74f-4ee4-a9b1-56e7bc8c659d",
+        "supplier_price_id": "42d6c6e5-944d-451b-9417-36d52a19350d",
+        "time_price": 0,
+        "total_price": 9.1176
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 9.1176,
+        "session_id": "d1e4672e-2e8a-4d65-806e-e22192a12df4",
+        "supplier_price_id": "42d6c6e5-944d-451b-9417-36d52a19350d",
+        "time_price": 0,
+        "total_price": 9.1176
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 9.1176,
+        "session_id": "6a615662-d5ca-40bd-b351-c94e545f6a70",
+        "supplier_price_id": "42d6c6e5-944d-451b-9417-36d52a19350d",
+        "time_price": 0,
+        "total_price": 9.1176
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 29.599200000000003,
+        "session_id": "088ccf03-f1b7-427e-894b-a78594e0dc5e",
+        "supplier_price_id": "493e30f2-a7f8-4dcd-aa74-a7f68871eee5",
+        "time_price": 0,
+        "total_price": 29.599200000000003
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 29.599200000000003,
+        "session_id": "c5f222be-0a37-4fe5-9b3b-37d8799da716",
+        "supplier_price_id": "493e30f2-a7f8-4dcd-aa74-a7f68871eee5",
+        "time_price": 0,
+        "total_price": 29.599200000000003
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 29.599200000000003,
+        "session_id": "5c65650a-a45f-425a-935c-f05758aa4bf4",
+        "supplier_price_id": "493e30f2-a7f8-4dcd-aa74-a7f68871eee5",
+        "time_price": 0,
+        "total_price": 29.599200000000003
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "3b71cc38-3e43-41b0-b149-fce7f85ba817",
+        "supplier_price_id": "76293b19-2d00-49b4-800f-76f2136a59c7",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "9a12bdf1-b615-4d86-86a2-57675c08ad49",
+        "supplier_price_id": "76293b19-2d00-49b4-800f-76f2136a59c7",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "05d6164f-6faf-4ca0-a149-426cfea91662",
+        "supplier_price_id": "76293b19-2d00-49b4-800f-76f2136a59c7",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 6.4109,
+        "kwh_price": 7.324800000000001,
+        "session_id": "bc7af72f-7182-44af-bcc2-0252f5f7dcbc",
+        "supplier_price_id": "86cb20d9-6ff9-407e-823d-2f8d53d2f0ca",
+        "time_price": 0,
+        "total_price": 13.735700000000001
+    },
+    {
+        "fee_price": 6.4109,
+        "kwh_price": 7.324800000000001,
+        "session_id": "35c3e09e-1a4d-4343-a7c9-76c6356ccdfd",
+        "supplier_price_id": "86cb20d9-6ff9-407e-823d-2f8d53d2f0ca",
+        "time_price": 0,
+        "total_price": 13.735700000000001
+    },
+    {
+        "fee_price": 6.4109,
+        "kwh_price": 7.324800000000001,
+        "session_id": "1eec5e65-540c-4621-8247-5c49cd38f97a",
+        "supplier_price_id": "86cb20d9-6ff9-407e-823d-2f8d53d2f0ca",
+        "time_price": 0,
+        "total_price": 13.735700000000001
+    },
+    {
+        "fee_price": 6.4109,
+        "kwh_price": 7.324800000000001,
+        "session_id": "ede0fd0a-5216-496a-a5b3-6dff433fd6ec",
+        "supplier_price_id": "86cb20d9-6ff9-407e-823d-2f8d53d2f0ca",
+        "time_price": 0,
+        "total_price": 13.735700000000001
+    },
+    {
+        "fee_price": 4.1248,
+        "kwh_price": 30.8592,
+        "session_id": "a0f5829b-b7a6-437f-b12e-6f311e05017d",
+        "supplier_price_id": "22fbae3a-e3b5-471c-8b55-066b1ece0b93",
+        "time_price": 0,
+        "total_price": 34.984
+    },
+    {
+        "fee_price": 4.1248,
+        "kwh_price": 30.8592,
+        "session_id": "69fd57b5-604f-489c-b6c1-49d897120172",
+        "supplier_price_id": "22fbae3a-e3b5-471c-8b55-066b1ece0b93",
+        "time_price": 0,
+        "total_price": 34.984
+    },
+    {
+        "fee_price": 4.1248,
+        "kwh_price": 30.8592,
+        "session_id": "5e54a055-1160-479b-8ff4-fa2b0803ea08",
+        "supplier_price_id": "22fbae3a-e3b5-471c-8b55-066b1ece0b93",
+        "time_price": 0,
+        "total_price": 34.984
+    },
+    {
+        "fee_price": 5.0518,
+        "kwh_price": 0,
+        "session_id": "7865c5e1-76e6-4891-bfce-798fadc67503",
+        "supplier_price_id": "e0fc1d40-d3e1-40ed-b713-f809ad5c6e34",
+        "time_price": 0,
+        "total_price": 5.0518
+    },
+    {
+        "fee_price": 5.0518,
+        "kwh_price": 0,
+        "session_id": "f33a0129-5aa8-4f0d-9f2f-c0075c25c301",
+        "supplier_price_id": "e0fc1d40-d3e1-40ed-b713-f809ad5c6e34",
+        "time_price": 0,
+        "total_price": 5.0518
+    },
+    {
+        "fee_price": 5.0518,
+        "kwh_price": 0,
+        "session_id": "d09bc698-949c-4ee1-a531-4c178821552b",
+        "supplier_price_id": "e0fc1d40-d3e1-40ed-b713-f809ad5c6e34",
+        "time_price": 0,
+        "total_price": 5.0518
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "15a2efa7-bac7-436e-93fe-1dfb93915c2c",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "8d260692-281b-4d0e-89ef-ceec386dd2d3",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "649b2f02-4bb5-4339-8256-b3829af1a411",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e7e237b3-3d81-4e01-825f-a95eec605ecd",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "507102d1-df90-4428-bf42-aebc3795c1fd",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "65f9ec2d-6b10-4825-ae41-f76c3a0c6081",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "69344908-2de5-4dd1-954c-eac5138a2b0c",
+        "supplier_price_id": "ba5644d7-cef8-4002-9b21-eade0999c643",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "48125433-9f18-4f79-b956-44d4963c993f",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c3fb7ad8-908c-4dde-9fd1-773c21f6849d",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "3f9c2db2-be7c-4355-a6c6-25c44be35f88",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7d4a2f76-ff33-456e-a51e-997433424378",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5f42de70-e1a3-4438-a969-7e55497312b3",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c60b4dd1-4a21-4e5b-a3ef-9b9670009c3d",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "2d1fc2b9-d6bb-4a57-b464-b91ac77efbf6",
+        "supplier_price_id": "67778cc2-f3d3-4d9b-95f8-77554b71aa2b",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "1db655dc-c7b2-40d4-bdc3-bd7565601113",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "8f852984-7aab-4440-bbc7-342166d822c1",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "3ffcd23c-887d-4dfc-bf09-a9a17bf0c656",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "984fbbaf-672d-4237-98c4-3f28148450ee",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "0b4385db-8468-4c0f-8784-9fd8dff730cc",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "fe303026-e45a-4043-910a-3fb5a5366116",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 2.5312,
+        "kwh_price": 6.6504,
+        "session_id": "38c08799-e13d-4af2-bb74-0713a090c82d",
+        "supplier_price_id": "d47aff18-c2f7-468d-aed4-5ed69eb23fd2",
+        "time_price": 0,
+        "total_price": 9.1816
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "de5a62e4-e51f-4616-8a8b-a9d4e505709c",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "17bbdeb1-ea8e-4366-b50e-2e1ef102e544",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "3c6e5ec1-18fc-4d26-a620-7b0b3b45a5e0",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "ab7f3dea-2b38-4623-8e5c-dc18faff1963",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "d7c028fa-e3ac-4108-be1b-3b94a97a7725",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "4324def9-25ff-4aae-8aa5-dc8a8a905f1c",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.1416,
+        "session_id": "a3929b75-9c71-46ae-a786-935d10ef14ba",
+        "supplier_price_id": "229ebff3-15d4-4505-b03c-244e4064e4be",
+        "time_price": 0,
+        "total_price": 18.1416
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "215704fa-920f-47ad-b2e9-a448e7b40ba4",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "d2cb7fa3-dd02-4339-8bf4-d8debee73c75",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "fb997c37-ac94-4b42-af93-89ea96949125",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "8b687262-1a01-4d01-9d86-b5b95a89d34d",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "80d7aeea-4e1a-4aa6-b8d5-94f20329fecb",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "14abfa5b-02b0-4730-8ab0-7024cd5ff4ae",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 39.6312,
+        "session_id": "23acbf0e-0b7d-4e2c-b5b8-a0c2f2b73f2f",
+        "supplier_price_id": "d1d227e8-f380-4813-a6bc-d92cc4c4d03f",
+        "time_price": 0,
+        "total_price": 39.6312
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5e9cad53-4ac0-4130-acdb-5ddd10db759d",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "b17009ea-7dae-4d1d-b1ed-fb4ab2d7ed13",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "2d69f99f-0db5-4661-8abc-22ad9cd57fec",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "59d73814-14f7-4a71-83b4-3b24ea5839a5",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "42962f0e-bc4e-4b37-bc1d-f58cad60635a",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "bfebb526-921d-478c-a488-e9e3258b1984",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "452897d3-9361-4a8f-aa68-8374531350fb",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "4af264f6-d667-4806-bd01-7233c833f838",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "6a2fdafb-5d2a-46b2-8770-485157331269",
+        "supplier_price_id": "f5a46064-d57d-4f9c-a6eb-51acd2b65c21",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 47.498400000000004,
+        "session_id": "69b54b7f-8815-4eba-8137-dbf13871dcff",
+        "supplier_price_id": "27c56486-3702-4157-9a42-7c54b2396946",
+        "time_price": 0,
+        "total_price": 47.498400000000004
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 47.498400000000004,
+        "session_id": "15147ed9-fa6d-4d67-af35-4bdd5f328430",
+        "supplier_price_id": "27c56486-3702-4157-9a42-7c54b2396946",
+        "time_price": 0,
+        "total_price": 47.498400000000004
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 47.498400000000004,
+        "session_id": "f6118020-7b0a-4f1f-ae64-f15cdf05ac2e",
+        "supplier_price_id": "27c56486-3702-4157-9a42-7c54b2396946",
+        "time_price": 0,
+        "total_price": 47.498400000000004
+    },
+    {
+        "fee_price": 4.0969,
+        "kwh_price": 0.0,
+        "session_id": "9a0eb390-f0d5-45a2-836c-b9fe46e39ceb",
+        "supplier_price_id": "b8557e03-0b25-45f0-aa24-863055d94598",
+        "time_price": 0,
+        "total_price": 4.0969
+    },
+    {
+        "fee_price": 4.0969,
+        "kwh_price": 0.0,
+        "session_id": "b690ac40-b560-4633-a7d8-aadd5d571195",
+        "supplier_price_id": "b8557e03-0b25-45f0-aa24-863055d94598",
+        "time_price": 0,
+        "total_price": 4.0969
+    },
+    {
+        "fee_price": 4.0969,
+        "kwh_price": 0.0,
+        "session_id": "4ecc0235-f14a-4466-9b60-35afae9d91d0",
+        "supplier_price_id": "b8557e03-0b25-45f0-aa24-863055d94598",
+        "time_price": 0,
+        "total_price": 4.0969
+    },
+    {
+        "fee_price": 2.778,
+        "kwh_price": 0.9216,
+        "session_id": "7941bc75-98fd-45b0-9dee-71d45c2e8516",
+        "supplier_price_id": "20c07512-ae6a-40d7-a58c-aafb08d11904",
+        "time_price": 0,
+        "total_price": 3.6996
+    },
+    {
+        "fee_price": 2.778,
+        "kwh_price": 0.9216,
+        "session_id": "1462c11d-9de9-4d3b-b98e-de1491f3d575",
+        "supplier_price_id": "20c07512-ae6a-40d7-a58c-aafb08d11904",
+        "time_price": 0,
+        "total_price": 3.6996
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "6f7a6e6d-22dc-4079-b915-9fcfc1811ba9",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "784a8110-d2a8-4307-99f7-ba229e1a72df",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "4ab55d60-068f-4b20-a3bf-92ff5d602497",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "6d9fc4f7-792d-4867-bee5-51d8822727b8",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "5f62a3ef-0991-448e-9ddf-dfd655aea1ec",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "00ccc55c-6772-40cd-8cf3-80d46c891652",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 5.144,
+        "kwh_price": 3.4368,
+        "session_id": "f28667fd-546c-4405-8b09-096ab67b838f",
+        "supplier_price_id": "bb8ed5f5-919a-4481-84c4-86bd5ed74591",
+        "time_price": 0,
+        "total_price": 8.5808
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "a5abdc27-5af6-4b5c-a010-3a192bc1c19b",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "bfe86022-234f-44ff-b85d-ffa4b2ffaaa4",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "3ad9b8b5-7fe9-4d04-b982-4d493614da1b",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "8cffbb0b-f6c9-4ebc-9d57-69529e76b4c4",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "f337dfb9-dcab-40f9-8345-a4a22eabbc97",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "65fb081e-aee7-487b-a64c-8e4d889d3b81",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 1.8665,
+        "kwh_price": 6.3024000000000004,
+        "session_id": "fad75c49-b980-43f5-8438-3b0305ba0992",
+        "supplier_price_id": "128beba7-7480-47dc-9cf2-1a11a1835978",
+        "time_price": 0,
+        "total_price": 8.1689
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "1440fbf1-2020-4fe1-9cb5-08ae28710f3d",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "570cc688-30ee-485c-9a11-dd7b2664649f",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "a8829f93-927e-4a91-a8c9-2880ca9dc9e8",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "212a575d-4947-4abd-843e-07e87bda445f",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "6cb0a620-5852-43b1-8b2b-d7e8d5ce7909",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "35da667d-f8be-4a6f-adf4-d23548128c2c",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.357600000000001,
+        "session_id": "fea68fe1-fc18-4565-85b5-af7ad5857660",
+        "supplier_price_id": "1e6dacd4-5217-4988-bf6b-9f3a7afcca14",
+        "time_price": 0,
+        "total_price": 15.357600000000001
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f413a7bf-4167-4e0f-a866-18b9de25b921",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "a553402d-a483-4479-9ba0-f7e947acd27d",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "c62a3f43-0c59-437d-b0af-e0f11081c84d",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f51fd995-c750-4739-a0e3-272e972e720c",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "12707c1c-07e4-4095-b53f-afb1357c93ec",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "376b1fdc-14ae-4b7d-a9a7-1bd7905fdcec",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "98c71d2f-e745-4c40-965d-976e7042693f",
+        "supplier_price_id": "03b28293-180d-4a5b-83b8-a3b824e2cdd4",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c2942530-44d4-42e1-aefd-47838c502822",
+        "supplier_price_id": "374d1b06-28e2-474d-b009-37a619debac8",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7501866e-465c-4ac8-846c-d96591ca04c3",
+        "supplier_price_id": "374d1b06-28e2-474d-b009-37a619debac8",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.9664,
+        "session_id": "9c592f90-135d-4a36-9314-4e94e1526ad2",
+        "supplier_price_id": "ab2affe2-e478-4f11-8f48-8fdba6afa60b",
+        "time_price": 0,
+        "total_price": 35.9664
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.9664,
+        "session_id": "18218a65-7bbe-4357-9574-89c9d14ac7a9",
+        "supplier_price_id": "ab2affe2-e478-4f11-8f48-8fdba6afa60b",
+        "time_price": 0,
+        "total_price": 35.9664
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "9e3740fc-f693-4262-b459-385d94188f8d",
+        "supplier_price_id": "2f2c6afd-4909-4571-8b31-1d2c74ef1136",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "214fe7ba-3123-432b-a50b-a2e31c414a62",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "7e458e08-95ce-400d-b1c0-2b9b222ba1bf",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "04e86436-0991-4709-812b-f44689f8eafa",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "6c9caea0-b879-49f5-8c9d-79f379410094",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "454d2c9a-3a70-4e4e-abfc-f26f4a52989b",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "dbf5e02a-4968-4892-85ca-415e27ef0382",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 18.4296,
+        "session_id": "37166dd2-213e-4acd-a84c-795e71cdb4ff",
+        "supplier_price_id": "0f0ad552-8bdf-4a8e-8793-ea0afa7507a1",
+        "time_price": 0,
+        "total_price": 18.4296
+    },
+    {
+        "fee_price": 9.6584,
+        "kwh_price": 0,
+        "session_id": "2d53d799-8e64-4601-a3fd-cf6c4346aba6",
+        "supplier_price_id": "7250dce9-99f4-4195-a5bc-219459172091",
+        "time_price": 0,
+        "total_price": 9.6584
+    },
+    {
+        "fee_price": 9.6584,
+        "kwh_price": 0,
+        "session_id": "c70ec485-ef6a-462d-8834-5ff356e5be5f",
+        "supplier_price_id": "7250dce9-99f4-4195-a5bc-219459172091",
+        "time_price": 0,
+        "total_price": 9.6584
+    },
+    {
+        "fee_price": 9.6584,
+        "kwh_price": 0,
+        "session_id": "8080dfc4-34a4-4cfa-8c42-e93043efcd79",
+        "supplier_price_id": "7250dce9-99f4-4195-a5bc-219459172091",
+        "time_price": 0,
+        "total_price": 9.6584
+    },
+    {
+        "fee_price": 9.6584,
+        "kwh_price": 0,
+        "session_id": "3d2a32cb-505e-4af8-bca9-fb5bf224adce",
+        "supplier_price_id": "7250dce9-99f4-4195-a5bc-219459172091",
+        "time_price": 0,
+        "total_price": 9.6584
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "d6b4b386-0c34-4a1d-8699-ba416824ce69",
+        "supplier_price_id": "08b788a1-3c64-4d38-bef5-0f97d3cd4d18",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "9322e78e-3424-4fc6-acdb-3a2c25275088",
+        "supplier_price_id": "08b788a1-3c64-4d38-bef5-0f97d3cd4d18",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7c44595a-ef90-49f9-801a-3afddcef7be8",
+        "supplier_price_id": "08b788a1-3c64-4d38-bef5-0f97d3cd4d18",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "79458ea0-07b9-431a-afc2-b18951ea8221",
+        "supplier_price_id": "08b788a1-3c64-4d38-bef5-0f97d3cd4d18",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "4646cef5-3e13-4998-8014-2d45439d5485",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "65dd0aa1-e413-4d13-be64-67422a4f73cd",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "e536c63e-d3a6-45d6-9256-0fb3ff680744",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "2b60ac84-2123-4ed9-be46-37dd91833f84",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "caace721-2149-44a2-84c0-6ad9f816de58",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "b45a8eca-3972-4aac-9d67-45b6ae3d075a",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.076799999999999,
+        "session_id": "388a666e-9b7a-4fb3-bb66-9a84552a52a7",
+        "supplier_price_id": "19d85e41-f4a5-4982-b735-5578bf107987",
+        "time_price": 0,
+        "total_price": 15.076799999999999
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "135febe0-2867-44b6-9b85-6d400cb69d2e",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "49cac586-a2d1-406a-997c-604d176f09e4",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "b4d134e4-0c30-40bd-809b-e60166cfb511",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "616786ce-3f39-4c5b-a274-75f5c6471c6b",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "1ac5fd9d-adf5-4964-b132-07548ca04bbe",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "df4628ff-cab7-40e1-8d79-dc3067b07dee",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": -946.4519999999998,
+        "session_id": "3d9f581a-bf3c-41da-813c-7a5a68abce53",
+        "supplier_price_id": "0384c213-2bbd-4c9c-8fc7-09eaf0c33f96",
+        "time_price": 0,
+        "total_price": -946.4519999999998
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "fd0403f0-e5a4-49e3-825a-b6d9d7011585",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "9db88e19-f223-41bc-b835-28a9c0234e9c",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "b834d0aa-f663-4322-b74b-778ab5839d6b",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "696ae7e3-6e8b-4781-a599-5acaaef55077",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "5f663a54-0b50-459e-a05d-94faf8a86576",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f9416a6d-f92a-4330-92fd-d0fe938877fc",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "4191c6cc-f8b5-40bd-ae11-0f3cb16682f7",
+        "supplier_price_id": "355528cb-f2e4-4669-860c-9cfdf1a356db",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f984e478-5cd9-4684-a7e7-9f77af9759d8",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "d4d3d348-7aba-4a2b-9d78-da321b9d7c00",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "36de08db-d7aa-46d6-9d96-3081e87108ae",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "18c23dce-55e9-4e1b-87fe-78c45f4acc45",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "49d85dea-099f-49db-899a-5a979fa2794b",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "0c0126b9-15c6-4a70-84cc-67671a4ce14c",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f1864d9e-0a46-4031-82d2-c9ad80893a16",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "712f673c-6fd7-4712-8918-b3ce8d40912a",
+        "supplier_price_id": "ae52e808-efc7-4128-9f7b-11559b9ee115",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "137f4f7b-52cd-466d-8e2f-91343efb5bdb",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "095df3fe-b384-442b-99bf-0ac18244e29d",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "423a772a-4a1b-4d55-adaf-165bb619e3c0",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "e3f13456-3448-4cbd-b0e7-2c86e94ee96a",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "fa0f2943-5323-4c7d-80aa-cde4b59e1b84",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "8dc7b5fd-70ef-4a5e-ac0e-e02b99a2c1e0",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "5fa27d07-2513-48c1-8b90-90b815936ef4",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 5.6573,
+        "kwh_price": 4.32,
+        "session_id": "d9969a18-ecb8-4b22-ab00-74600b4bc1aa",
+        "supplier_price_id": "a534db43-fd2d-4af6-8f8a-288fe1039092",
+        "time_price": 0,
+        "total_price": 9.9773
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "76956029-a3f4-427d-b15a-766b60053e13",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "ad18486d-7511-42a6-9a51-ae03f137e69e",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "d8113893-3096-48ba-81e3-00f6e63611be",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "40810c72-ec84-4184-bc3e-3cecee61cfc1",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "fd3caf3d-5f43-46f9-96e7-c049a43f4d1f",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "1b754d7e-5478-43d8-ae93-a6d665cf0e5a",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "28c801c5-c7a4-448a-80d4-ad8143ab0007",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 2.9989,
+        "kwh_price": 0,
+        "session_id": "1a08a87c-3789-4c05-b86b-91ff9ee9183b",
+        "supplier_price_id": "297201b0-0a30-442e-b582-711332c0a84f",
+        "time_price": 0,
+        "total_price": 2.9989
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5eaaa233-32f4-42a9-9613-016bdb15c8bb",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a0a99638-28ae-4398-a60d-08c76b24607c",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "21560edb-a0c5-4542-947d-cf8d40e7219f",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "f2c125fb-b60e-4b86-9e62-e3ca44f6a1a9",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "58b2c2fb-45f8-46a0-a277-c6289f5558bd",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "b3377766-c39a-4d7d-9c71-70bf3c9fcf98",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "18e12df0-db14-4f07-b801-dee368cfa8e3",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "1153fdd1-0b42-425e-9549-27e65eef8314",
+        "supplier_price_id": "2cdf15e4-3040-4da3-b0f4-11f4662d138d",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "2d1db216-f979-484d-93f7-39e42859a9da",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5750c6e7-01fe-47c5-9486-4b152ba978b0",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "e4d56198-c20f-429b-b27b-7e205a75b63e",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "27cb9a58-1d8c-4c50-afcd-452863011b20",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a6696b06-f0a2-4878-a7ec-329abfacb012",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7c4580f5-b9f7-46aa-a39b-507b9fba79c2",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "266619dc-3d85-4225-8ae0-e33c582ef010",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "588de2af-68b1-4dc9-bfbe-dca90c1625b2",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "b7c53b4b-f25c-4163-95f8-606853bf5262",
+        "supplier_price_id": "34bb29b8-b119-460a-b210-650079fc2b62",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "62eddae6-dbea-438f-bae1-8241476f5759",
+        "supplier_price_id": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "3d18ab38-06ec-4f51-adb5-0002d041b6b4",
+        "supplier_price_id": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a54fa810-c936-4b31-9876-8c81f9d9e049",
+        "supplier_price_id": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "940e72e4-98ee-4e66-8268-e5b7ccbd1a58",
+        "supplier_price_id": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c86aceff-f871-4bd8-8e23-794a0de9f830",
+        "supplier_price_id": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "cabb262d-ab96-4295-b351-5f9b92552802",
+        "supplier_price_id": "bea99456-df4f-4446-811d-d29c5a8d16fc",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "42e6e6a0-c40d-46ff-b96a-645bc884d2b4",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "c77941aa-9586-481f-8dc8-cc51207ab0cb",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "51e3be8a-e2f8-440a-a3e4-a86666abf9bb",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "5ed7fa3b-e3fb-4aec-b489-c920c745cd1a",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "a59e360b-f9a4-43fa-ae1f-396dc11ad9bd",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "d74fab69-d112-4e77-84ce-4a03b2f11e8b",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "7ce6826c-3a48-4943-ae9a-9a2ad92d99c6",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "10b875c6-3f0d-4f1a-a743-12903035781c",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "8ebd8cce-6b0f-451d-94c6-7bde6c58734a",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 2.0364,
+        "kwh_price": 38.455200000000005,
+        "session_id": "17690965-4400-487d-a8fe-5815899ac679",
+        "supplier_price_id": "94dbae55-e2c6-4314-be52-e5f6425a4d18",
+        "time_price": 0,
+        "total_price": 40.491600000000005
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.3448,
+        "session_id": "a9de3db2-2263-40ad-ba12-d6821c33c418",
+        "supplier_price_id": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "time_price": 0,
+        "total_price": 35.3448
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.3448,
+        "session_id": "ece727ec-42e8-432f-8798-4adf40f85156",
+        "supplier_price_id": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "time_price": 0,
+        "total_price": 35.3448
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.3448,
+        "session_id": "f7670866-215c-4497-9352-ad83465bae2d",
+        "supplier_price_id": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "time_price": 0,
+        "total_price": 35.3448
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.3448,
+        "session_id": "6c56c1d3-3b09-46c4-8d06-97eeff82c064",
+        "supplier_price_id": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "time_price": 0,
+        "total_price": 35.3448
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.3448,
+        "session_id": "8baf7261-b57c-42d8-86e1-3fc60a6e9cc6",
+        "supplier_price_id": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "time_price": 0,
+        "total_price": 35.3448
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 35.3448,
+        "session_id": "9e5a38c0-a618-44e7-9e29-a582aa4635b5",
+        "supplier_price_id": "94137462-35d2-459a-a716-0fd325a3c44f",
+        "time_price": 0,
+        "total_price": 35.3448
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 33.6384,
+        "session_id": "495a5ede-d410-4d5d-a718-abfd557e5c5b",
+        "supplier_price_id": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "time_price": 0,
+        "total_price": 33.6384
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 33.6384,
+        "session_id": "3b8ff7c0-8d1a-46e2-9d42-56e4feb9518f",
+        "supplier_price_id": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "time_price": 0,
+        "total_price": 33.6384
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 33.6384,
+        "session_id": "8843187c-0921-42e6-9b8a-50bcd1373519",
+        "supplier_price_id": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "time_price": 0,
+        "total_price": 33.6384
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 33.6384,
+        "session_id": "eff61c18-18d1-4fc6-b439-9e699a8e1198",
+        "supplier_price_id": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "time_price": 0,
+        "total_price": 33.6384
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 33.6384,
+        "session_id": "55ff2807-3c09-4852-a4fa-c7cb9d92c852",
+        "supplier_price_id": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "time_price": 0,
+        "total_price": 33.6384
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 33.6384,
+        "session_id": "89b4f0d5-6c37-44a3-b933-743f7ef7ad12",
+        "supplier_price_id": "74a30f84-e20e-4247-99c1-d863cd2626aa",
+        "time_price": 0,
+        "total_price": 33.6384
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "face60ea-fb4d-491e-8bce-9a7ef7392f29",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "643924ee-897b-4ac2-9f82-02685787ec6b",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "8cd36d10-471d-47e5-b1bc-dc1ca47199ca",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5696aa21-e59c-4581-8a96-d0554d76278d",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "fbc00129-7b29-4c22-aa62-8fc81f84bb61",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "7f1c7eb4-44ee-4647-811a-93062a95e5be",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "b20bc756-4af8-462a-a96d-cb9462cc1d4e",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "c1f013f2-8d65-4360-9f62-20e4f824c5ce",
+        "supplier_price_id": "c2b3734f-1a8d-48b3-8504-fc4575e35806",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "4215feb9-532e-42a8-a8ab-ef590798d48e",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "d0798040-2011-4329-8c4f-14199b0d63b6",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5ca8354a-a9c4-424d-a0ff-fbafa38afe56",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "4fc93120-e517-4dd7-965a-5d8561b6b9a1",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "b2dbf8b4-75fa-4930-b259-31b7cf7c0430",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "eb9beb36-ca19-4ab2-9a8c-d967c87e4264",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "6dc6f4c5-ca68-4ce5-a871-3ce5de8773c7",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "859798a4-a88c-4859-a5c2-77df71342b0e",
+        "supplier_price_id": "5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 38.3256,
+        "session_id": "c74ec369-a1ef-4691-ab0a-36d46017f054",
+        "supplier_price_id": "b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77",
+        "time_price": 0,
+        "total_price": 38.3256
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 38.3256,
+        "session_id": "38300e95-f93b-45bf-8663-67d5a496578b",
+        "supplier_price_id": "b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77",
+        "time_price": 0,
+        "total_price": 38.3256
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 38.3256,
+        "session_id": "2ee6ad98-bef8-4adb-9842-0953d705273b",
+        "supplier_price_id": "b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77",
+        "time_price": 0,
+        "total_price": 38.3256
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 38.3256,
+        "session_id": "d5217d16-ea34-4a49-a53b-e28329a04dd9",
+        "supplier_price_id": "b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77",
+        "time_price": 0,
+        "total_price": 38.3256
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 38.3256,
+        "session_id": "5a6ed484-3db7-4d63-b0c2-4a548e2015f0",
+        "supplier_price_id": "b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77",
+        "time_price": 0,
+        "total_price": 38.3256
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "aa78671d-d790-4848-b868-20e83e13375d",
+        "supplier_price_id": "fdad2dfb-d58f-4022-9ca3-cf0c9454912f",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5ee9a139-6525-4d2e-8cdf-85d28b1c3081",
+        "supplier_price_id": "fdad2dfb-d58f-4022-9ca3-cf0c9454912f",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "a81356f0-4974-4cdb-8a1c-60093a9ced18",
+        "supplier_price_id": "fdad2dfb-d58f-4022-9ca3-cf0c9454912f",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "5012928e-4805-43d4-9b17-e93cd0a9219a",
+        "supplier_price_id": "fdad2dfb-d58f-4022-9ca3-cf0c9454912f",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0,
+        "session_id": "80ef7809-cfd9-478d-b47b-187d8b175a48",
+        "supplier_price_id": "fdad2dfb-d58f-4022-9ca3-cf0c9454912f",
+        "time_price": 0,
+        "total_price": 0
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "ca4b7203-960d-4494-bd0f-eee3ffd41bb9",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "a0174dbc-fff6-4d63-9e95-6a1d4088581c",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "377439d1-a239-49a3-b78e-b478fefc635e",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "5c2ee5dc-515a-4486-832f-a4e3ae4e34a8",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "1282cd06-70ae-411d-a58a-52a0b8fdb238",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "f24b6980-54e4-492f-937b-5e11889a1263",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 1.7578,
+        "kwh_price": 0,
+        "session_id": "63dc6f73-e024-4ce7-b82f-a6bd62a82efd",
+        "supplier_price_id": "3a3230c1-b2e5-44b8-b004-758727f03d77",
+        "time_price": 0,
+        "total_price": 1.7578
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "e0a12a79-a13f-4b28-bf63-a5711039d448",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "d56659b0-2392-489d-9e67-3c1947e815ff",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "4d9eedf4-1762-46a9-8ae9-4d885ce3b9e8",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "7bca884f-0499-4a04-b0a9-f27b240fbd13",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "1d5d9503-e6fe-4fc5-b6a9-3966e992e0a4",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "d97e9505-7b4d-4760-bfa7-f26a117f9b7a",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 2.0075,
+        "kwh_price": 0,
+        "session_id": "6dba58e4-9168-48a1-9e5f-f9c722be8a82",
+        "supplier_price_id": "02eef4be-0bda-4fa4-b2aa-e24597faeb53",
+        "time_price": 0,
+        "total_price": 2.0075
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "f2843eb8-e8ff-4c23-827c-f8c06448a0d7",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "1ba11851-003a-4b5c-ba42-fbbf573f17c8",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "37494912-1471-47d0-8cd4-63542b1f44a2",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "55696976-6ddc-40fc-832a-810ed4411575",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "8c36088e-dcaa-48b5-8f13-5d3133193a4b",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "675e1e8f-e3ee-40bc-be33-a6fd78310879",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "5dc8350b-be73-4f4d-9400-7f62db08e637",
+        "supplier_price_id": "bb9a546f-8d04-42b9-a07a-387e87e6e25d",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "8b559029-c515-479e-b958-e9633526bac8",
+        "supplier_price_id": "3054c265-3512-45fd-9a42-0f7b6e47867f",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "67896f7e-5d1d-4e8b-a7ac-9bca6077da7f",
+        "supplier_price_id": "3054c265-3512-45fd-9a42-0f7b6e47867f",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 0.0,
+        "session_id": "8b5f41d0-46b6-40ad-aa91-5cc788f455bb",
+        "supplier_price_id": "3054c265-3512-45fd-9a42-0f7b6e47867f",
+        "time_price": 0,
+        "total_price": 0.0
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "c49f9e2f-6694-4b34-8e5b-7dd8520ab0cd",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "49e0e6e6-a0b8-42e2-af2d-ae1b626c7797",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "f305897b-4f63-4c0a-9ac9-3957e2611823",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "92612ba0-f397-4d8f-bcfa-f658b41aed4b",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "e20f4831-ceed-41ae-8f99-2fee7e5d378d",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "fb5c1fab-8d16-4556-a599-5d57131fe10a",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "eee4c55d-b63e-4f31-9899-6e663254b77e",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "242b676e-0305-47af-a1eb-0f28a297f55f",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "dcc1b109-d862-4653-86c1-7b0481932445",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 17.608800000000002,
+        "session_id": "37eac5f9-cfcd-41b4-87d8-fc9fd9bac6b2",
+        "supplier_price_id": "d6373fbf-88ce-43e7-aa59-a02451ea0a61",
+        "time_price": 0,
+        "total_price": 17.608800000000002
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "948c90f1-9b42-421c-870d-ed32e9951ab6",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "77e1c9e4-c3d6-476b-87d5-0ef5a833f3d5",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "7ab606f4-ea91-480e-82d6-0701f6c886f3",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "c2d2364c-e8ec-4517-82ba-96a384182553",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "3d4ba52a-fdf0-47e0-9815-20424bb605ee",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "6769dc14-7586-43f6-88bc-3efc0fdbf13b",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "03940456-50e7-4d8c-84d9-fd4baa685007",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "7f575f76-1b6b-49a4-8491-de092be8f099",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "69da37e7-f734-4f3d-bd46-9a00751bacfc",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 4.5487,
+        "kwh_price": 0,
+        "session_id": "ebc09570-666e-49f5-9164-eed9e6f13d01",
+        "supplier_price_id": "2cab13cc-0019-42cb-995d-8e0901e59025",
+        "time_price": 0,
+        "total_price": 4.5487
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "9d82d758-c05a-4ec5-9254-53c9ca87fd48",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "8919f149-3fe2-40d7-934e-e4befa0f7059",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "d6c1f2c2-b660-4f05-8035-c2dc32a53288",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "e9f61bc2-3331-4506-8ec2-0e3187584a2c",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "4ce22f52-bdb9-4c11-81ab-6167f12107cb",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "3c101a6b-cd08-4e69-8714-2fe3397d1f26",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "6aa349c7-3fba-4ad9-bfa6-cfb2746a6f15",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "1b7d1a21-9b3b-47b7-bf36-45950790d9e2",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "c10d88c9-b2d5-4f6d-8d58-9258e35ec3c5",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    },
+    {
+        "fee_price": 0,
+        "kwh_price": 15.160800000000002,
+        "session_id": "b202647d-c896-416f-aea1-0c86bf8d8fa7",
+        "supplier_price_id": "d4907f00-df50-487c-9c65-d7f2b314d393",
+        "time_price": 0,
+        "total_price": 15.160800000000002
+    }
+]

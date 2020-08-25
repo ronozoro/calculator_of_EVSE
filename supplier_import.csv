@@ -1,0 +1,101 @@
+Company name,Currency,EVSE ID,Identifier,Product ID,has hour day,has max session Fee,has minimum billing threshold,has session fee,has time based kwh,max_session fee,min billing amount,min consumption,session Fee,time_price
+Fireball,"['USD', '$']",False,7bac5c27-a34f-4d5d-81d2-b955a753e4e4,LY*TOW,True,False,False,False,True,False,False,0.9916,False,"[{'hour from': 5, 'hour to': 11.0, 'kwh price': '1.2627'}, {'hour from': 11.0, 'hour to': 17.0, 'kwh price': '1.2688'}, {'hour from': 17.0, 'hour to': 23.0, 'kwh price': '0.8551'}, {'hour from': 23.0, 'hour to': 5.0, 'kwh price': '0.4734'}]"
+Ciba AG,"['CHF', 'Fr.']",False,6a5dfd13-a6b0-4e0a-a50a-1ec676d2d442,IO*XMT,True,False,False,False,False,end,False,False,0.0147,False,"[{'billing_each_timeframe': 0.4961, 'minute price': '1.6753'}]"
+NOS,"['EUR', '€']",UB*ETD*F315*70,a29775d9-26c1-48c9-a483-ee40ab5917a7,False,True,True,False,True,0.2815,72.6607,False,0.2464,3.2302
+Swiss National Bank,"['CHF', 'Fr.']",AP*HBQ*U604*38,f1ae2063-e04d-4ff3-8ae0-44296eee5fe0,False,True,False,False,True,True,end,False,"1,5312",0.083,"8,9632","[{'billing_each_timeframe': 0.2459, 'minute price': '0,6473'}]"
+Aixam,"['EUR', '€']",SF*DTL*I349*48,e8a874fa-a7ef-498a-8840-309613b1a76e,False,True,False,False,True,0.7162,False,False,0.2568,"9,5392"
+Antiquorum,"['CHF', 'Fr.']",KM*KMD*M965*28,2aaa7c61-97b4-4cfb-b272-1b0d6528bbd2,False,False,True,False,True,"42,6348",False,0.0429,"7,0423","1,2303"
+Ellipse Programmé,"['EUR', '€']",False,fffdfeb3-0f1a-454d-9abb-495962443afe,WJ*WYT,False,True,False,True,False,0.9422,False,2.201,0.7099,0.0004,False,"0,3868"
+Certina,"['CHF', 'Fr.']",False,39d22381-16b6-486a-a095-d30e4bbcb8b3,ID*HUT,True,False,True,False,True,True,start,1.1702,False,0.3854,0.8383,0.0701,2.8752,"[{'billing_each_timeframe': 0.0686, 'minute price': '1.7456'}]"
+Ebro trucks,"['EUR', '€']",LW*CBK*C449*67,1a6b6fd3-6169-49ca-81d6-5e7d9eefe6d0,False,False,True,False,False,"29,3775",False,0.0812,False,"1,7333"
+Kreditech,"['EUR', '€']",False,15e2478c-d158-41eb-80a4-ed71eb95a5e1,CS*VMH,False,True,False,True,True,0.1407,False,"2,7334",0.6265,0.031,"9,7478",1.1966
+Vueling Airlines,"['EUR', '€']",False,93741657-df13-4cb1-b7de-4d3e01db0c37,XI*SWK,True,True,True,False,True,False,end,0.0542,False,"0,8037",0.4148,0.0832,False,"[{'billing_each_timeframe': 0.2421, 'hour from': 10, 'hour to': 18.0, 'minute price': '0.7755'}, {'billing_each_timeframe': 0.2421, 'hour from': 18.0, 'hour to': 2.0, 'minute price': '0.9096'}, {'billing_each_timeframe': 0.2421, 'hour from': 2.0, 'hour to': 10.0, 'minute price': '0.4143'}]"
+Manor,"['CHF', 'Fr.']",False,ab5b5913-328b-4023-a7ca-4aa90cfe913d,HU*BCE,True,True,False,False,"0,6687",25.6596,False,0.3755,False
+Sunopsis,"['EUR', '€']",WW*XOW*Z725*26,a864f296-ea5d-45c5-a0c9-248c3cc7b92c,False,False,True,True,False,"26,7068","1,8966",0.0487,False,0.421
+Weleda,"['CHF', 'Fr.']",YP*NVI*L055*16,ee2c2fd3-64f9-4af9-b8a8-94a50d354d65,False,False,False,True,False,True,False,1.0577,0.2712,False,[{'kwh price': '0.128'}]
+Globus,"['CHF', 'Fr.']",QP*JWD*N536*55,4c8eb3e4-e68a-4dea-91f3-2e88c10121c0,False,True,False,False,True,"0,7936",False,False,0.0203,"1,7689"
+Deutsche Telekom,"['EUR', '€']",YK*QZA*Y335*42,ea5edd98-7128-4317-9e41-4b2780619d39,False,True,True,True,False,"0,566","68,8932","2,7891",0.0174,False
+Walter Verlag,"['CHF', 'Fr.']",OZ*YWH*J123*94,2e589e2e-a6db-4164-8cd0-444465d54504,False,False,True,True,True,True,"1,0802","39,9367","0,8739",0.5049,0.0001,"2,2509",0.4331
+Anovo,"['EUR', '€']",False,4ebdf79f-14f5-4b04-bf0b-651bcdc13675,DT*VNK,True,True,False,True,"0,6688",90.957,False,0.9461,7.6291
+Sacyr Vallehermoso,"['EUR', '€']",False,f49931c1-8e55-4ef8-bea8-f8f22c42369f,LT*TNP,False,False,True,True,False,"0,1789",0.0745,"6,4971",0.8954
+Dieffenbacher,"['EUR', '€']",False,ccf08f9a-ad8e-44ee-bbfc-ea33eed84d1e,XN*MFD,True,False,True,True,True,end,41.7335,0.555,0.0549,4.3517,"[{'billing_each_timeframe': 0.2653, 'minute price': '1,9842'}]"
+Novo Banco,"['EUR', '€']",RF*NZD*N226*48,a2077145-d742-4b2d-aa7b-f87c48b07702,False,True,False,True,True,True,start,53.1313,1.1047,0.0439,6.0943,"[{'billing_each_timeframe': 0.0765, 'minute price': '0,502'}]"
+BusinessObjects,"['EUR', '€']",False,c9986216-6886-42b9-8d6d-464f7c5b5566,PF*BQQ,False,False,True,True,False,1.0371,0.0692,8.5753,0.3472
+Métro Lausanne-Ouchy,"['CHF', 'Fr.']",False,7d4f0912-68a4-46c3-8773-2739eb80877a,CN*HKQ,True,True,False,False,1.0749,70.5537,False,0.5681,False
+Adaptas,"['USD', '$']",False,757d5c09-3086-4d72-8366-48c5ac8efd97,WA*BZJ,False,False,True,True,False,"2,4806",0.0471,"8,387",0.7032
+Freenet.de,"['EUR', '€']",AW*XWL*M483*81,ee3e4740-4312-40c1-8d8d-0266799f072d,False,True,False,False,True,False,end,False,"2,9009",0.0235,False,"[{'billing_each_timeframe': 0.4378, 'minute price': '0.7455'}]"
+a21,"['USD', '$']",False,4519f31e-afa2-434e-a3d5-52f65bb33675,ZW*UFQ,True,False,True,True,"1,0547",False,"2,0126",0.8777,"9,5651"
+BUF Compagnie,"['EUR', '€']",False,d89d9476-9854-4f49-a0b6-47bf06bbb84e,DL*BNI,False,True,False,True,True,"1,8663",False,"2,5362",0.6537,0.0157,"6,5341","1,7506"
+Weltraum-System,"['EUR', '€']",False,9b4b2ef9-d955-49b5-b8e3-515d81f656bf,FC*ZWP,False,False,True,True,False,True,"25,6078","2,2437",0.5843,0.0201,False,"0,1622",[{'kwh price': '0.1041'}]
+Future Bright,"['USD', '$']",False,ebc91f0e-354e-4f34-b276-8f55b5aab9a3,LJ*GCB,False,False,False,True,False,True,False,"1,9452",0.222,0.0629,False,1.5213,"[{'kwh price': '1,884'}]"
+Wortmann,"['EUR', '€']",False,5968df09-2857-456c-91b6-853a71a248d2,GT*IPR,False,True,True,False,True,1.4948,"65,8088",False,0.7559,0.0476,"4,965","1,6938"
+Ringier,"['CHF', 'Fr.']",XI*LKS*E553*53,f4e1684a-3a27-4b54-9e6e-eb8ffb7ab31e,False,True,False,False,True,True,start,False,2.6563,0.0659,3.2464,"[{'billing_each_timeframe': 0.0424, 'minute price': '1,6559'}]"
+Martifer,"['EUR', '€']",KO*MOL*V495*83,ddef02ed-cf27-43e7-a2f7-7ee3792faa13,False,False,True,True,True,False,0.1557,"30,8884","1,8298",0.7912,0.0654,False,"0,6667"
+Nord Stream AG,"['CHF', 'Fr.']",False,1284c769-c51a-42af-834a-585bd259c765,QJ*NCJ,False,True,True,True,True,"58,8821","1,0811",0.6473,"5,6318",[{'kwh price': '1.5833'}]
+Glintt,"['EUR', '€']",DH*MUW*K360*06,55b88d20-2de5-4a80-b0f1-df2a8f0cd578,False,False,False,True,False,True,False,2.8622,0.0751,False,"[{'kwh price': '0,3782'}]"
+Fuchs Petrolub,"['EUR', '€']",False,88a423aa-aeb4-4256-8a23-6bcaca61c420,RS*RMU,False,True,True,True,"99,3917","1,123",0.0321,"2,1649",0.8019
+Meo,"['EUR', '€']",AJ*DTB*K127*79,37779f1a-20c6-453a-9077-d37796518501,False,True,False,False,False,True,True,start,False,False,0.7931,0.0525,5.1172,"[{'kwh price': '1,0167'}]"
+Aleris International,"['USD', '$']",CA*PYI*C334*37,2df0c8b3-5b51-4a3d-8f75-cf09d5199548,False,True,True,True,True,"0,5888",61.6232,1.1138,0.7426,4.3246
+SoftAtHome,"['EUR', '€']",False,f7c537d6-2cac-49af-932e-2e01b360a10d,ZL*SFO,True,False,False,False,1.7872,False,False,0.2476,False
+Abertis,"['EUR', '€']",KU*BAD*D328*13,50574d40-515d-4df6-99d5-9ee3e27f245d,False,True,True,True,True,False,start,31.0876,1.3844,0.0612,False,"[{'billing_each_timeframe': 0.213, 'hour from': 0, 'hour to': 12.0, 'minute price': '1.5642'}, {'billing_each_timeframe': 0.213, 'hour from': 12.0, 'hour to': 0.0, 'minute price': '1.2671'}]"
+Megatronic,"['USD', '$']",LR*VVY*U613*57,37758618-3c0f-405b-959b-687bab01b70d,False,True,False,True,True,True,True,end,"66,6045","2,1123",0.0359,0.0297,"5,2867","[{'kwh price': '0,7052'}]"
+Wilkhahn,"['EUR', '€']",TG*GHY*S747*85,a4fb92fe-7efb-4017-9953-e1f483dd63bb,False,False,False,False,False,True,True,False,False,0.7258,0.005,"9,8173",1.4869,"[{'kwh price': '0,9907'}]"
+Deutsche Post,"['EUR', '€']",False,2fed9582-52ff-4ae1-b333-1739fd9b451d,VA*YIG,False,True,True,True,False,"1,5507",28.8629,2.6417,0.4636,0.0016,False,"1,355"
+Freudenberg Group,"['EUR', '€']",False,3fe75726-963e-43b6-ac7f-74051183f713,HG*FHO,True,False,False,False,1.8153,False,False,0.5672,False
+Deutsche Bahn,"['EUR', '€']",RN*HBA*U664*39,0594e869-3f87-4d56-9bdb-e6ca3cb757f9,False,True,True,False,True,0.1043,"82,0599",False,0.0681,"4,338"
+New Era Tickets,"['USD', '$']",ZM*GEA*Z372*20,42e34a1e-9661-4d94-94ff-d9c0188f0772,False,True,True,True,True,True,end,"60,0036","1,3848",0.037,"1,6262","[{'billing_each_timeframe': 0.4621, 'hour from': 22, 'hour to': 10.0, 'minute price': '1.2363'}, {'billing_each_timeframe': 0.4621, 'hour from': 10.0, 'hour to': 22.0, 'minute price': '1.0561'}]"
+DxO Labs,"['EUR', '€']",False,ee07a879-7678-4483-b2e7-0a35758ec69d,VD*EXO,True,True,True,False,"0,8441","80,0334","0,2462",0.0695,False
+Zimmerberg bus line,"['CHF', 'Fr.']",False,261fb296-69ae-409b-bdf4-44383fc3fdb8,ZG*WTB,True,True,False,False,"0,4889",64.8718,False,0.8629,False
+Principal Financial Group,"['USD', '$']",IG*PZB*R017*27,decd249b-ce93-4f72-8221-672f4ec882a5,False,True,False,True,True,True,False,2.1315,0.8604,6.8982,"[{'hour from': 10, 'hour to': 18.0, 'kwh price': '1.295'}, {'hour from': 18.0, 'hour to': 2.0, 'kwh price': '1.9585'}, {'hour from': 2.0, 'hour to': 10.0, 'kwh price': '0.5408'}]"
+Meo,"['EUR', '€']",False,d1fe1917-d8d9-4824-a8ca-0308a35d9107,YK*VXX,False,True,False,True,False,"0,1467",False,0.4097,0.9479,0.0524,False,"1,9365"
+Kirch Group,"['EUR', '€']",False,66fb2ec1-9473-45ea-b987-c156f51aca52,RQ*DGJ,True,True,True,True,"0,0265",73.2277,2.6409,0.6896,2.8264
+La Casera,"['EUR', '€']",False,496f0156-96ca-4d15-8ee2-da1fcd155144,SU*ORC,False,True,False,True,False,1.13,False,2.0475,0.616,0.0502,False,1.9213
+Fresenius Medical Care,"['EUR', '€']",False,0f532615-bc8d-49a1-8165-b4ff0ec4f295,DM*XVQ,True,True,True,True,True,True,end,"1,2248","34,1334","0,3123",0.165,0.0501,"4,9051","[{'billing_each_timeframe': 0.1885, 'hour from': 6, 'hour to': 18.0, 'minute price': '0.0085'}, {'billing_each_timeframe': 0.1885, 'hour from': 18.0, 'hour to': 6.0, 'minute price': '0.24'}]"
+Bradley Pharmaceuticals,"['USD', '$']",False,42d6c6e5-944d-451b-9417-36d52a19350d,PO*QEI,True,False,False,True,0.3799,False,False,0.1515,"7,988"
+Wella,"['EUR', '€']",False,493e30f2-a7f8-4dcd-aa74-a7f68871eee5,SW*SZE,False,True,False,True,False,1.2333,False,"2,7603",0.8632,0.0497,False,1.421
+Infinit,"['EUR', '€']",False,76293b19-2d00-49b4-800f-76f2136a59c7,OH*ECG,True,True,False,False,True,start,False,False,0.0595,"1,0426","[{'billing_each_timeframe': 0.4323, 'hour from': 4, 'hour to': 10.0, 'minute price': '1.7053'}, {'billing_each_timeframe': 0.4323, 'hour from': 10.0, 'hour to': 16.0, 'minute price': '1.0322'}, {'billing_each_timeframe': 0.4323, 'hour from': 16.0, 'hour to': 22.0, 'minute price': '0.1265'}, {'billing_each_timeframe': 0.4323, 'hour from': 22.0, 'hour to': 4.0, 'minute price': '0.7145'}]"
+SEAT,"['EUR', '€']",RE*DQB*H979*11,86cb20d9-6ff9-407e-823d-2f8d53d2f0ca,False,False,True,True,True,True,"0,3052","76,2537","0,441",0.3738,0.0715,"6,4109","0,3655"
+KIMO Industrie Elektronik,"['EUR', '€']",BL*XJB*W642*21,22fbae3a-e3b5-471c-8b55-066b1ece0b93,False,True,True,True,True,"1,2858","69,3358","1,4816",0.1399,"4,1248"
+Avaya,"['USD', '$']",False,e0fc1d40-d3e1-40ed-b713-f809ad5c6e34,MM*YJS,False,True,True,True,"45,9628","0,3719",0.0079,"5,0518","0,1873"
+Würth,"['EUR', '€']",EM*ODM*C216*22,ba5644d7-cef8-4002-9b21-eade0999c643,False,False,False,False,True,False,False,0.0736,3.183,0.5948
+RIU Hotels,"['EUR', '€']",False,67778cc2-f3d3-4d9b-95f8-77554b71aa2b,DF*LJZ,True,False,True,True,False,end,80.0892,1.0184,0.0259,False,"[{'billing_each_timeframe': 0.2037, 'minute price': '0,535'}]"
+Vueling Airlines,"['EUR', '€']",GT*YZJ*X336*80,d47aff18-c2f7-468d-aed4-5ed69eb23fd2,False,False,True,False,True,True,0.2771,False,2.5312,0.3598,0.0645,1.8471,1.4668
+Daher,"['EUR', '€']",False,229ebff3-15d4-4505-b03c-244e4064e4be,AS*MHX,False,True,True,False,True,"0,7559","83,9109",False,0.8475,0.0651,"3,7121",1.3261
+Interplay Entertainment,"['USD', '$']",False,d1d227e8-f380-4813-a6bc-d92cc4c4d03f,DI*BOD,False,True,True,False,True,1.6513,"31,4888",False,0.6117,0.003,"2,6768",1.1156
+Telepizza,"['EUR', '€']",FC*UVZ*C721*74,f5a46064-d57d-4f9c-a6eb-51acd2b65c21,False,False,True,True,False,"35,111","0,5419",0.0253,False,"1,6806"
+MobYD,"['EUR', '€']",QE*NTD*D903*52,27c56486-3702-4157-9a42-7c54b2396946,False,False,True,False,False,False,"1,9791",False,False,0.6703,0.0264,False,0.6638
+KSB,"['EUR', '€']",FL*NZL*C995*66,b8557e03-0b25-45f0-aa24-863055d94598,False,False,False,True,True,True,False,"0,9138",0.274,"4,0969","[{'kwh price': '1,2769'}]"
+Manu Connection,"['USD', '$']",JL*BMQ*G302*91,20c07512-ae6a-40d7-a58c-aafb08d11904,False,True,True,True,True,0.0384,"53,7858","2,778",0.4613,"1,4458"
+Domaine Clarence Dillon,"['EUR', '€']",LZ*KTU*X653*42,bb8ed5f5-919a-4481-84c4-86bd5ed74591,False,False,True,True,True,True,0.1432,88.0861,2.3467,0.2043,0.0663,5.144,0.6799
+Dürr,"['EUR', '€']",False,128beba7-7480-47dc-9cf2-1a11a1835978,NL*UAM,True,False,True,True,0.2626,False,0.4509,0.8255,1.8665
+Noble Corporation,"['CHF', 'Fr.']",GZ*TDB*V035*25,1e6dacd4-5217-4988-bf6b-9f3a7afcca14,False,True,False,True,False,"0,6399",False,2.6763,0.0841,False
+Fresh Start,"['USD', '$']",False,03b28293-180d-4a5b-83b8-a3b824e2cdd4,TB*TSI,False,True,False,True,True,99.1963,False,0.3027,3.5136,[{'kwh price': '1.2739'}]
+Acciona,"['EUR', '€']",DW*ZSX*C540*77,374d1b06-28e2-474d-b009-37a619debac8,False,True,False,False,True,False,start,False,"2,6816",0.0186,False,"[{'billing_each_timeframe': 0.4204, 'minute price': '1,4415'}]"
+BioMérieux,"['EUR', '€']",False,ab2affe2-e478-4f11-8f48-8fdba6afa60b,SP*VDQ,False,True,True,True,False,"1,4986",67.124,0.1213,0.4133,0.0449,False,1.1098
+Avant Garde Appraisal,"['USD', '$']",XB*BMQ*C620*98,2f2c6afd-4909-4571-8b31-1d2c74ef1136,False,False,False,True,False,False,"1,5805",0.0233,False,0.0375
+Sonae,"['EUR', '€']",GZ*OFP*X463*91,0f0ad552-8bdf-4a8e-8793-ea0afa7507a1,False,True,True,False,False,0.7679,96.3733,False,0.8799,False
+Banco Comercial Português,"['EUR', '€']",EE*WCE*O211*63,7250dce9-99f4-4195-a5bc-219459172091,False,False,False,True,True,False,"2,5223",0.0279,"9,6584",0.4541
+Majorica,"['EUR', '€']",False,08b788a1-3c64-4d38-bef5-0f97d3cd4d18,OW*JFH,False,True,True,False,57.767,1.3597,0.0684,False,0.0857
+Aquafadas,"['EUR', '€']",FV*TKG*T723*22,19d85e41-f4a5-4982-b735-5578bf107987,False,False,True,False,True,False,"0,6282",False,"0,2158",0.7136,0.0307,False,"0,839"
+Daum (studio),"['EUR', '€']",False,0384c213-2bbd-4c9c-8fc7-09eaf0c33f96,FH*KLJ,True,True,False,False,True,71.3758,False,0.9652,False,"[{'hour from': 2, 'hour to': 8.0, 'kwh price': '0.7241'}, {'hour from': 8.0, 'hour to': 14.0, 'kwh price': '1.3521'}, {'hour from': 14.0, 'hour to': 20.0, 'kwh price': '1.427'}, {'hour from': 20.0, 'hour to': 2.0, 'kwh price': '0.9557'}]"
+Deutsche Post,"['EUR', '€']",False,355528cb-f2e4-4669-860c-9cfdf1a356db,KG*WFL,False,False,False,False,False,True,False,False,0.4371,0.0518,False,0.0769,[{'kwh price': '1.5385'}]
+CIE Automotive,"['EUR', '€']",AV*HRS*O152*22,ae52e808-efc7-4128-9f7b-11559b9ee115,False,False,False,False,False,True,False,False,0.6405,False,"[{'kwh price': '1,4775'}]"
+Logoplaste,"['EUR', '€']",False,a534db43-fd2d-4af6-8f8a-288fe1039092,PI*IXL,True,True,True,True,0.18,"64,1568","2,6387",0.5233,"5,6573"
+Duralex,"['EUR', '€']",False,297201b0-0a30-442e-b582-711332c0a84f,CI*FGM,False,False,True,True,False,0.1195,0.0265,2.9989,0.8679
+Comptoir des Cotonniers,"['EUR', '€']",False,2cdf15e4-3040-4da3-b0f4-11f4662d138d,UW*HMN,False,False,True,False,False,0.4363,0.0697,False,"1,4069"
+Buffet Crampon,"['EUR', '€']",OZ*FTS*L739*20,34bb29b8-b119-460a-b210-650079fc2b62,False,False,False,False,True,False,False,0.0748,3.5396,1.7343
+Georg Fischer,"['CHF', 'Fr.']",XF*HWO*T909*02,bea99456-df4f-4446-811d-d29c5a8d16fc,False,True,True,True,False,False,start,77.8556,False,0.04,False,"[{'billing_each_timeframe': 0.4093, 'hour from': 22, 'hour to': 6.0, 'minute price': '1.7942'}, {'billing_each_timeframe': 0.4093, 'hour from': 6.0, 'hour to': 14.0, 'minute price': '0.487'}, {'billing_each_timeframe': 0.4093, 'hour from': 14.0, 'hour to': 22.0, 'minute price': '1.094'}]"
+Villeroy & Boch,"['EUR', '€']",NP*VUC*S803*81,94dbae55-e2c6-4314-be52-e5f6425a4d18,False,True,False,True,True,"1,6023",False,"2,0364",0.5938,"1,2427"
+Bial,"['EUR', '€']",DJ*LOK*N607*27,94137462-35d2-459a-a716-0fd325a3c44f,False,True,True,False,True,"1,4727",94.3829,False,0.3572,2.3868
+Putzmeister,"['EUR', '€']",False,74a30f84-e20e-4247-99c1-d863cd2626aa,FK*XPT,True,False,True,False,1.4016,False,"1,9597",0.5883,False
+Corticeira Amorim,"['EUR', '€']",YK*JNF*A283*26,c2b3734f-1a8d-48b3-8504-fc4575e35806,False,False,False,False,True,False,False,0.0186,"3,7977","1,6949"
+Nexus Telecom,"['CHF', 'Fr.']",False,5dc085e1-5d93-4d0a-a52d-41f45c7d0ba9,DE*IRC,False,False,False,True,False,False,0.0281,8.1202,"1,5053"
+Swiss Private Aviation,"['CHF', 'Fr.']",YY*IQU*R119*50,b557b1e7-3a62-4af1-b92f-a0ec6cdbdf77,False,True,False,True,False,"1,5969",False,"1,5929",0.304,False
+Mercadona,"['EUR', '€']",False,fdad2dfb-d58f-4022-9ca3-cf0c9454912f,BO*ODP,True,False,False,True,False,end,False,"0,7297",0.0524,False,"[{'billing_each_timeframe': 0.4025, 'minute price': '0.2729'}]"
+Chopard,"['CHF', 'Fr.']",OO*IFG*M021*49,3a3230c1-b2e5-44b8-b004-758727f03d77,False,False,False,True,True,False,0.2084,0.041,1.7578,"0,0829"
+Freudenberg Group,"['EUR', '€']",False,02eef4be-0bda-4fa4-b2aa-e24597faeb53,EI*KOO,False,True,True,True,"95,05","1,3041",0.0562,"2,0075","1,909"
+Essilor,"['EUR', '€']",False,bb9a546f-8d04-42b9-a07a-387e87e6e25d,JK*TVK,False,False,True,False,True,False,"0,1503",0.4045,False,[{'kwh price': '1.1754'}]
+Bascol,"['EUR', '€']",ME*PSD*I497*82,3054c265-3512-45fd-9a42-0f7b6e47867f,False,False,True,False,False,True,43.1527,False,0.1887,False,[{'kwh price': '0.6519'}]
+Siku Toys,"['EUR', '€']",QD*YDS*D638*02,d6373fbf-88ce-43e7-aa59-a02451ea0a61,False,True,True,False,False,"0,7337","96,117",False,0.3841,False
+SIC,"['EUR', '€']",False,2cab13cc-0019-42cb-995d-8e0901e59025,BH*VCH,False,False,True,True,False,"1,2387",0.0279,"4,5487",1.6351
+Christofle,"['EUR', '€']",False,d4907f00-df50-487c-9c65-d7f2b314d393,AF*MWX,False,True,False,False,True,0.6317,False,False,0.4358,0.0712,"4,375",1.9514

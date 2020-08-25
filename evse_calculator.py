@@ -19,7 +19,7 @@ class CalculatorOfEVSE:
         return json.loads(response.content)
 
     def parse_supplier_data_types(self, key, value):
-        """Parsing float and list attributes in the json object for each supplier dict"""
+        """Utility : Parsing float and list attributes in the json object for each supplier dict"""
         if key in ('kwh_price',
                    'max_session_fee',
                    'min_billing_amount',
@@ -46,13 +46,14 @@ class CalculatorOfEVSE:
 
     @staticmethod
     def parse_transaction_data_types(key, value):
-        """Parsing float  attributes in the json object for each transaction dict"""
+        """Utility : Parsing float  attributes in the json object for each transaction dict"""
         if key in ('meter_value_end', 'meter_value_start'):
             return float(
                 value.replace(',', '.'))  # Todo Maybe need to be changed to be based on currency obj [currency,symbol]
         return value
 
     def parse_supplier_data(self, supplier_data):
+        """Clean up supplier data and make dict keys meaningful"""
         supplier_list = []  # Cleaned Supplier List
         for supplier in supplier_data:
             supplier_item = dict()
@@ -64,6 +65,7 @@ class CalculatorOfEVSE:
         return supplier_list
 
     def clean_transaction_data(self, transaction_data):
+        """Clean up transaction data and make dict keys meaningful"""
         transaction_list = []  # Cleaned Transactions
         for transaction in transaction_data:
             transaction_item = dict()
@@ -76,6 +78,7 @@ class CalculatorOfEVSE:
         return transaction_list
 
     def cleaned_data(self):
+        """Start to connect to the server and pass data to required function to start parsing and cleaning the data"""
         json_response = self.import_data(self.url, self.username, self.password)
         cleaned_supplier_data = self.parse_supplier_data(
             json_response.get('supplier_prices', []))  # Clean the supplier json obj
@@ -83,3 +86,12 @@ class CalculatorOfEVSE:
             json_response.get('transactions', []))  # Clean the transaction json obj
         return {'cleaned_supplier_data': cleaned_supplier_data,
                 'cleaned_transaction_data': cleaned_transaction_data}  # cleaned data after simple manipulation
+
+    @staticmethod
+    def merge_supplier_transaction(cleaned_supplier_data, cleaned_transaction_data):
+        """Match suppliers with transaction and merge them to construct final data"""
+        merged_data = [{'supplier_detail': x, 'supplier_transaction': y}
+                       for x in cleaned_supplier_data for y in cleaned_transaction_data
+                       if (x['product_id'] == y['partner_product_id'] and x['evse_id'] == False) or x['evse_id'] == y[
+                           'evseid']]  # Todo maybe remove duplicates to only loop throw transactions?
+        return merged_data

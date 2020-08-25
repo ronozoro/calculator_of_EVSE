@@ -15,8 +15,7 @@ class CalculatorOfEVSE:
         self.password = password
         self.context = kwargs
 
-    @staticmethod
-    def import_data(url, username, password):
+    def import_data(self, url, username, password):
         """Auth and Get the data in json format"""
         response = requests.get(url, auth=HTTPBasicAuth(username, password))
         return json.loads(response.content)
@@ -173,8 +172,27 @@ class CalculatorOfEVSE:
             total_price = 0
             return total_price
 
-    def compute_kwh_price(self, supplier_with_transaction):
-        return 0
+    @staticmethod
+    def compute_kwh_price(supplier_with_transaction):
+        """Start to calculate kwh prices with both versions simple&complex"""
+
+        supplier_item = supplier_with_transaction.get('supplier_detail')
+        total_kwh_price = 0
+        if supplier_item.get('has_time_based_kwh') and supplier_item.get('time_price'):
+            # start to compute as complex
+            for rec in supplier_item.get('time_price'):
+                if rec.get('hour_from') and rec.get('hour_to'):
+                    if rec.get('hour_from') > rec.get('hour_to'):
+                        duration = (rec.get('hour_to') - rec.get('hour_from')) * 60
+                    else:
+                        duration = (rec.get('hour_to') - (24 - rec.get('hour_from'))) * 60
+                else:
+                    duration = 0
+                total_kwh_price += duration * rec.get('kwh_price', 0)
+        else:
+            # start to calculate the simple version for kwh price
+            total_kwh_price = 24 * supplier_item.get('kwh_price', 0)
+        return total_kwh_price
 
     def calculate_prices(self, merged_data):
         """Prepare data to be exported or printed for final stage"""
@@ -209,7 +227,7 @@ class CalculatorOfEVSE:
 
 
 sub_calc = CalculatorOfEVSE('https://hgy780tcj2.execute-api.eu-central-1.amazonaws.com/dev/data', 'interviewee',
-                            'muchpassword', dt_view='preview')
+                            'muchpassword')
 from pprint import pprint
 
 pprint(sub_calc.get_transaction_prices())

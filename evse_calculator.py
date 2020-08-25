@@ -200,7 +200,7 @@ class CalculatorOfEVSE:
         return calculated_prices
 
     def get_transaction_prices(self):
-        """"""
+        """Get the final transaction details to be exported"""
         cleaned_data = self.cleaned_data()
         supplier_cleaned_data = cleaned_data.get('cleaned_supplier_data')
         transaction_cleaned_data = cleaned_data.get('cleaned_transaction_data')

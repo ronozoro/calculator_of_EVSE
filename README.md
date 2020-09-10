@@ -1,5 +1,5 @@
-# much-challenge
-Coding challenge for Much Consulting Interview
+
+Coding challenge
 # The Chanllange is about : 
 
 1. Get JSON with Data 
